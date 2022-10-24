@@ -26,7 +26,9 @@ for item in Wooliesproductlist:
     deal = item.find('div', {'class': 'product__special'}).text
     link = item.find('a', {'class': 'product--view'})
 
+
     WooliesItems = {
+        'Store': baseurlWoolies,
         'Name': title,
         'Price': price,
         'Deal': deal,
@@ -45,13 +47,12 @@ pnpproductlist = soup.find_all('div', class_='productCarouselItemContainer')
 
 for item in pnpproductlist:
     title = item.find('div', {'class': 'item-name'}).text
-    currentprice = item.find(
-        'div', {'class': 'currentPrice'}).text.strip()[:-2]
-    promotion = item.find(
-        'div', {'class': 'promotionContainer'}).text.strip()
+    currentprice = item.find('div', {'class': 'currentPrice'}).text.strip()[:-2]
+    promotion = item.find('div', {'class': 'promotionContainer'}).text.strip()
     link = item.find('a', {'class': 'js-potential-impression-click'})
 
     pnpItems = {
+        'Store': baseurlpnp,
         'Name': title,
         'Price': currentprice,
         'Deal': promotion,
@@ -72,16 +73,16 @@ makroproductlist = soup.find_all(
     'div', class_='mak-product-tiles-container__product-tile bv-product-tile mak-product-card-inner-wrapper')
 
 for item in makroproductlist:
-    title = item.find('a', {
-                        'class': 'product-tile-inner__productTitle js-gtmProductLinkClickEvent text-overflow-ellipsis line-clamp-2'}).text
-    price = item.find(
-        'p', {'class': 'col-xs-12 price ONPROMOTION'}).text[:-2]
-    link = item.find(
-        'a', {'class': 'product-tile-inner__img js-gtmProductLinkClickEvent'})
+    title = item.find('a', {'class': 'product-tile-inner__productTitle js-gtmProductLinkClickEvent text-overflow-ellipsis line-clamp-2'}).text
+    price = item.find('p', {'class': 'col-xs-12 price ONPROMOTION'}).text[:-2]
+    deal = item.find('div', {'class': 'col-xs-12 saving'}).text[:-2]
+    link = item.find('a', {'class': 'product-tile-inner__img js-gtmProductLinkClickEvent'})
 
     MakroItems = {
+        'Store': baseurlmakro,
         'Name': title,
         'Price': price,
+        'Deal': deal,
         'URL': baseurlmakro + link['href']
     }
 
@@ -96,8 +97,8 @@ combineWine = [*WooliesProducts, *pnpProducts, *MakroProducts]
 with open('./public/WineData.json', 'w') as f:
     json.dump(combineWine, f, indent=2)
 
-def stopTheScript():
-    exec(open("Scraper.py").read())
-    exit()
+# def stopTheScript():
+#     exec(open("Scraper.py").read())
+#     exit()
 
-Timer(43200, stopTheScript).start() #86400 s = 24 h
+# Timer(43200, stopTheScript).start() #86400 s = 24 h

@@ -27,9 +27,9 @@
    <h2 align="center">Search your favourite wine</h2> 
    <br /><br />
    <div align="center">
-    <input type="text" name="search" id="search" placeholder="Search Employee Details" class="form-control" />
+    <input type="text" name="search" id="search" placeholder="Search Wine Name" class="form-control" />
    </div>
-   <ul class="list-group" id="result"></ul>
+   <ul class="list-group-item d-flex justify-content-between align-items-center" id="result"></ul>
    <br />
   </div>
  </body>
@@ -47,16 +47,16 @@ $(document).ready(function(){
    $.each(data, function(key, value){
     if (value.Name.search(expression) != -1)
     {
-     $('#result').append('<li class="list-group-item link-class">'+value.Name+' | <span class="text-muted">'+value.Price+'</span> | <span class="text-muted">'+value.Deal+'</span> | <a href='+value.URL+'>Go to page</a>');
+     $('#result').append('<li class="list-group-item link-class">'+value.Name+' \n| '+value.Price+' | \n<span class="text-muted">'+value.Deal+'</span> | <a href='+value.URL+'>'+value.Store+'</a>');
     }
    });   
   });
  });
  
- $('#result').on('click', 'li', function() {
-  var click_text = $(this).text().split('|');
-  $('#search').val($.trim(click_text[0]));
-  $("#result").html('');
+ $('#result').on('click', '.list-group-item', function(e){
+    var click_text = $(this).text();
+    $('#search').val(click_text[0]);
+    $("#result").html(this);
  });
 });
 </script>
