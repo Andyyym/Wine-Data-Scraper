@@ -1,18 +1,16 @@
-const PORT = process.env.PORT || 8000;
+// server.js
 const express = require('express');
-
-const Wine = require('./Data/WineData.json');
-
-const app = express()
-
-
-app.get('/',(req,res) =>{
-    res.json('welcome to wine api')
-})
-
-app.get('/redwine', (req,res) => {
-    res.json(Wine)
-})
+// Define Express App
+const app = express();
+const PORT = process.env.PORT || 80;
+// Serve Static Assets
 
 
-app.listen(PORT, () => console.log(`server is running on PORT ${PORT}`))
+app.use(express.static('public'));
+app.use(express.static('images'));
+
+
+app.use(express.static('public'));
+app.listen(PORT, () => {
+    console.log('Server connected at:', PORT);
+});

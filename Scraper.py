@@ -89,5 +89,5 @@ print('Makro Complete!')
 
 combineWine = [*WooliesProducts,*pnpProducts,*MakroProducts]
 
-with open('./Data/WineData.json', 'w') as f:
+with open('./public/WineData.json', 'w') as f:
     json.dump(combineWine, f, indent= 2)
