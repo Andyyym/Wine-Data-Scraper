@@ -53,7 +53,7 @@
     "Name": " Neil Ellis Cabernet Sauvignon Merlot 750 ml",
     "Price": "R 127.99",
     "Deal": "Wine of the Month Buy any 2 save R30",
-    "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/Neil-Ellis-Cabernet-Sauvignon-Merlot-750-ml/_/A-20071165?isFromPLP=true"
+    "URL": "https://www.woolworths.co.za/prod/Food/Food-Basket/Content/The-Best-of-the-Bordeaux/Neil-Ellis-Cabernet-Sauvignon-Merlot-750-ml/_/A-20071165?isFromPLP=true"
   },
   {
     "Store": "https://www.woolworths.co.za",
@@ -127,17 +127,17 @@
   },
   {
     "Store": "https://www.woolworths.co.za",
-    "Name": " Hartenberg Cabernet Sauvignon Shiraz 750 ml",
-    "Price": "R 144.99",
-    "Deal": "Buy any 2 save 10% Hartenberg Wines",
-    "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/Hartenberg-Cabernet-Sauvignon-Shiraz-750-ml/_/A-6002700000728?isFromPLP=true"
-  },
-  {
-    "Store": "https://www.woolworths.co.za",
     "Name": " Organic Shiraz 750 ml",
     "Price": "R 66.99",
     "Deal": "WREWARDS: Buy any 2 save 20%",
     "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/Woolworths-Organic-Shiraz-750-ml/_/A-20169336?isFromPLP=true"
+  },
+  {
+    "Store": "https://www.woolworths.co.za",
+    "Name": " Hartenberg Cabernet Sauvignon Shiraz 750 ml",
+    "Price": "R 144.99",
+    "Deal": "Buy any 2 save 10% Hartenberg Wines",
+    "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/Hartenberg-Cabernet-Sauvignon-Shiraz-750-ml/_/A-6002700000728?isFromPLP=true"
   },
   {
     "Store": "https://www.woolworths.co.za",
@@ -470,10 +470,10 @@
   },
   {
     "Store": "https://www.pnp.co.za",
-    "Name": "Durbanville Hills Merlot 750ml x 6",
-    "Price": "R510",
-    "Deal": "Wine Club members save 20%",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Merlot/Durbanville-Hills-Merlot-750ml-x-6/p/000000000000116745_CK"
+    "Name": "Fat Bastard The Golden Serve 750ml",
+    "Price": "R135",
+    "Deal": "Smart Price: R115.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Cabernet-Sauvignon/Fat-Bastard-The-Golden-Serve-750ml/p/000000000000800789_EA"
   },
   {
     "Store": "https://www.pnp.co.za",
@@ -491,59 +491,17 @@
   },
   {
     "Store": "https://www.pnp.co.za",
+    "Name": "Durbanville Hills Merlot 750ml x 6",
+    "Price": "R510",
+    "Deal": "Wine Club members save 20%",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Merlot/Durbanville-Hills-Merlot-750ml-x-6/p/000000000000116745_CK"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
     "Name": "Nederburg Double Barrel Reserve 750ml",
     "Price": "R115",
     "Deal": "Wine Club members save 20%",
     "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Cabernet-Sauvignon/Nederburg-Double-Barrel-Reserve-750ml/p/000000000000872265_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Fat Bastard The Golden Serve 750ml",
-    "Price": "R135",
-    "Deal": "Smart Price: R115.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Cabernet-Sauvignon/Fat-Bastard-The-Golden-Serve-750ml/p/000000000000800789_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Allesverloren Cabernet Sauvignon 750ml",
-    "Price": "R155",
-    "Deal": "Smart Price: R140.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Cabernet/Allesverloren-Cabernet-Sauvignon-750ml/p/000000000000117481_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Allesverloren Shiraz 750ml",
-    "Price": "R155",
-    "Deal": "Smart Price: R140.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Shiraz/Allesverloren-Shiraz-750ml/p/000000000000238602_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Diemersfontein Pinotage 750ml",
-    "Price": "R150",
-    "Deal": "Smart Price: R135.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Pinotage/Diemersfontein-Pinotage-750ml/p/000000000000177750_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "De Grendel Merlot 750ml",
-    "Price": "R180",
-    "Deal": "Smart Price: R160.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Merlot/De-Grendel-Merlot-750ml/p/000000000000467057_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Diemersdal Merlot 750 ml",
-    "Price": "R135",
-    "Deal": "Smart Price: R115.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Merlot/Diemersdal-Merlot-750-ml/p/000000000000523682_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Anthonij Rupert Optima 750ml",
-    "Price": "R240",
-    "Deal": "Smart Price: R220.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Blends/Anthonij-Rupert-Optima-750ml/p/000000000000623922_EA"
   },
   {
     "Store": "https://www.pnp.co.za",
@@ -554,45 +512,17 @@
   },
   {
     "Store": "https://www.pnp.co.za",
-    "Name": "The Chocolate Block 750ml",
-    "Price": "R250",
-    "Deal": "Smart Price: R230.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Blends/The-Chocolate-Block-750ml/p/000000000000319804_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Kanonkop Kadette Pinotage 750ml",
-    "Price": "R130",
-    "Deal": "Smart Price: R115.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Pinotage/Kanonkop-Kadette-Pinotage-750ml/p/000000000000624117_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Jacques Mouton Special Reserve Red 750ml",
-    "Price": "R110",
-    "Deal": "Smart Price: R95.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Blends/Jacques-Mouton-Special-Reserve-Red-750ml/p/000000000000815178_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Fat Bastard Pinotage 750ml",
+    "Name": "Diemersdal Merlot 750 ml",
     "Price": "R135",
     "Deal": "Smart Price: R115.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Pinotage/Fat-Bastard-Pinotage-750ml/p/000000000000601396_EA"
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Merlot/Diemersdal-Merlot-750-ml/p/000000000000523682_EA"
   },
   {
     "Store": "https://www.pnp.co.za",
-    "Name": "Nederburg Double Barrel Reserve 750ml x 6",
-    "Price": "R690",
-    "Deal": "Wine Club members save 20%",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Cabernet-Sauvignon/Nederburg-Double-Barrel-Reserve-750ml-x-6/p/000000000000872265_CS"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Jacques Mouton Merlot 750ml",
-    "Price": "R110",
-    "Deal": "Smart Price: R95.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Merlot/Jacques-Mouton-Merlot-750ml/p/000000000000831004_EA"
+    "Name": "Allesverloren Shiraz 750ml",
+    "Price": "R155",
+    "Deal": "Smart Price: R140.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Shiraz/Allesverloren-Shiraz-750ml/p/000000000000238602_EA"
   },
   {
     "Store": "https://www.pnp.co.za",
@@ -603,31 +533,10 @@
   },
   {
     "Store": "https://www.pnp.co.za",
-    "Name": "Fat Bastard Merlot 750ml",
-    "Price": "R135",
-    "Deal": "Smart Price: R115.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Merlot/Fat-Bastard-Merlot-750ml/p/000000000000656127_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Durbanville Hill Cape Port Cab Shiraz 2L",
+    "Name": "Diemersfontein Pinotage 750ml",
     "Price": "R150",
-    "Deal": "Wine Club members save 20%",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Shiraz/Durbanville-Hill-Cape-Port-Cab-Shiraz-2L/p/000000000000870045_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Diemersdal Pinotage 750ml",
-    "Price": "R135",
-    "Deal": "Smart Price: R115.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Pinotage/Diemersdal-Pinotage-750ml/p/000000000000239815_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Tamboerskloof Syrah 750ml",
-    "Price": "R235",
-    "Deal": "Smart Price: R210.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Shiraz/Tamboerskloof-Syrah-750ml/p/000000000000509729_EA"
+    "Deal": "Smart Price: R135.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Pinotage/Diemersfontein-Pinotage-750ml/p/000000000000177750_EA"
   },
   {
     "Store": "https://www.pnp.co.za",
@@ -638,17 +547,108 @@
   },
   {
     "Store": "https://www.pnp.co.za",
-    "Name": "La Motte Syrah 750ml",
-    "Price": "R195",
-    "Deal": "Smart Price: R175.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Shiraz/La-Motte-Syrah-750ml/p/000000000000223035_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
     "Name": "Alto Shiraz 750ml",
     "Price": "R275",
     "Deal": "Smart Price: R245.00",
     "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Shiraz/Alto-Shiraz-750ml/p/000000000000313283_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Diemersdal Pinotage 750ml",
+    "Price": "R135",
+    "Deal": "Smart Price: R115.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Pinotage/Diemersdal-Pinotage-750ml/p/000000000000239815_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "De Grendel Merlot 750ml",
+    "Price": "R180",
+    "Deal": "Smart Price: R160.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Merlot/De-Grendel-Merlot-750ml/p/000000000000467057_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Anthonij Rupert Optima 750ml",
+    "Price": "R240",
+    "Deal": "Smart Price: R220.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Blends/Anthonij-Rupert-Optima-750ml/p/000000000000623922_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Kanonkop Kadette Pinotage 750ml",
+    "Price": "R130",
+    "Deal": "Smart Price: R115.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Pinotage/Kanonkop-Kadette-Pinotage-750ml/p/000000000000624117_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Nederburg Double Barrel Reserve 750ml x 6",
+    "Price": "R690",
+    "Deal": "Wine Club members save 20%",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Cabernet-Sauvignon/Nederburg-Double-Barrel-Reserve-750ml-x-6/p/000000000000872265_CS"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Fat Bastard Pinotage 750ml",
+    "Price": "R135",
+    "Deal": "Smart Price: R115.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Pinotage/Fat-Bastard-Pinotage-750ml/p/000000000000601396_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Jacques Mouton Special Reserve Red 750ml",
+    "Price": "R110",
+    "Deal": "Smart Price: R95.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Blends/Jacques-Mouton-Special-Reserve-Red-750ml/p/000000000000815178_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "The Chocolate Block 750ml",
+    "Price": "R250",
+    "Deal": "Smart Price: R230.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Blends/The-Chocolate-Block-750ml/p/000000000000319804_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Allesverloren Cabernet Sauvignon 750ml",
+    "Price": "R155",
+    "Deal": "Smart Price: R140.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Cabernet/Allesverloren-Cabernet-Sauvignon-750ml/p/000000000000117481_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Jacques Mouton Merlot 750ml",
+    "Price": "R110",
+    "Deal": "Smart Price: R95.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Merlot/Jacques-Mouton-Merlot-750ml/p/000000000000831004_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Durbanville Hill Cape Port Cab Shiraz 2L",
+    "Price": "R150",
+    "Deal": "Wine Club members save 20%",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Shiraz/Durbanville-Hill-Cape-Port-Cab-Shiraz-2L/p/000000000000870045_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Fat Bastard Merlot 750ml",
+    "Price": "R135",
+    "Deal": "Smart Price: R115.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Merlot/Fat-Bastard-Merlot-750ml/p/000000000000656127_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Tamboerskloof Syrah 750ml",
+    "Price": "R235",
+    "Deal": "Smart Price: R210.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Shiraz/Tamboerskloof-Syrah-750ml/p/000000000000509729_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "La Motte Syrah 750ml",
+    "Price": "R195",
+    "Deal": "Smart Price: R175.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Shiraz/La-Motte-Syrah-750ml/p/000000000000223035_EA"
   },
   {
     "Store": "https://www.pnp.co.za",
@@ -666,13 +666,6 @@
   },
   {
     "Store": "https://www.pnp.co.za",
-    "Name": "Durbanville Hills Chardonnay 750ml",
-    "Price": "R85",
-    "Deal": "Wine Club members save 20%",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Chardonnay/Durbanville-Hills-Chardonnay-750ml/p/000000000000146754_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
     "Name": "Durbanville Hill Cape Port Chen Sv 750ml",
     "Price": "R75",
     "Deal": "Wine Club members buy 6 & save 25%",
@@ -684,6 +677,20 @@
     "Price": "R110",
     "Deal": "Smart Price: R90.00",
     "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Tokara-Zondernaam-Sauvignon-Blanc-750ml/p/000000000000460361_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Durbanville Hills Chardonnay 750ml",
+    "Price": "R85",
+    "Deal": "Wine Club members save 20%",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Chardonnay/Durbanville-Hills-Chardonnay-750ml/p/000000000000146754_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Cederberg Sauvignon Blanc 750ml",
+    "Price": "R140",
+    "Deal": "Smart Price: R125.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Cederberg-Sauvignon-Blanc-750ml/p/000000000000523184_EA"
   },
   {
     "Store": "https://www.pnp.co.za",
@@ -708,10 +715,31 @@
   },
   {
     "Store": "https://www.pnp.co.za",
-    "Name": "Cederberg Sauvignon Blanc 750ml",
-    "Price": "R140",
-    "Deal": "Smart Price: R125.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Cederberg-Sauvignon-Blanc-750ml/p/000000000000523184_EA"
+    "Name": "Durbanville Hill Cape Port Chen Sv 750ml x 6",
+    "Price": "R450",
+    "Deal": "Wine Club members save 25%",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Durbanville-Hill-Cape-Port-Chen-Sv-750ml-x-6/p/000000000000870012_CS"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Durbanville Hills Sauvignon Blanc 750ml x 6",
+    "Price": "R510",
+    "Deal": "Wine Club members save 20%",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Durbanville-Hills-Sauvignon-Blanc-750ml-x-6/p/000000000000186696_CK"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Boschendal 1685 Sauvignon Blanc 750ml",
+    "Price": "R120",
+    "Deal": "Smart Price: R105.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Boschendal-1685-Sauvignon-Blanc-750ml/p/000000000000111095_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Iona Sauvignon Blanc 750ml",
+    "Price": "R170",
+    "Deal": "Smart Price: R150.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Iona-Sauvignon-Blanc-750ml/p/000000000000455775_EA"
   },
   {
     "Store": "https://www.pnp.co.za",
@@ -719,6 +747,13 @@
     "Price": "R510",
     "Deal": "Wine Club members save 20%",
     "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Chardonnay/Durbanville-Hills-Chardonnay-750ml-x-6/p/000000000000146754_CK"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Alvi's Drift Reserve Sauv Blanc 750ml",
+    "Price": "R130",
+    "Deal": "Smart Price: R115.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Alvi%27s-Drift-Reserve-Sauv-Blanc-750ml/p/000000000000887013_EA"
   },
   {
     "Store": "https://www.pnp.co.za",
@@ -736,45 +771,10 @@
   },
   {
     "Store": "https://www.pnp.co.za",
-    "Name": "Alvi's Drift Reserve Cvc 750ml",
-    "Price": "R130",
-    "Deal": "Smart Price: R115.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Blends/Alvi%27s-Drift-Reserve-Cvc-750ml/p/000000000000687731_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Durbanville Hill Cape Port Chen Sv 750ml x 6",
-    "Price": "R450",
-    "Deal": "Wine Club members save 25%",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Durbanville-Hill-Cape-Port-Chen-Sv-750ml-x-6/p/000000000000870012_CS"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Durbanville Hills Sauvignon Blanc 750ml x 6",
-    "Price": "R510",
-    "Deal": "Wine Club members save 20%",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Durbanville-Hills-Sauvignon-Blanc-750ml-x-6/p/000000000000186696_CK"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Boschendal 1685 Chardonnay 750ml",
-    "Price": "R120",
-    "Deal": "Smart Price: R105.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Chardonnay/Boschendal-1685-Chardonnay-750ml/p/000000000000354738_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Iona Sauvignon Blanc 750ml",
-    "Price": "R170",
-    "Deal": "Smart Price: R150.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Iona-Sauvignon-Blanc-750ml/p/000000000000455775_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Boschendal 1685 Sauvignon Blanc 750ml",
-    "Price": "R120",
-    "Deal": "Smart Price: R105.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Boschendal-1685-Sauvignon-Blanc-750ml/p/000000000000111095_EA"
+    "Name": "Cederberg Chenin Blanc 750ml",
+    "Price": "R115",
+    "Deal": "Smart Price: R100.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Chenin-Blanc/Cederberg-Chenin-Blanc-750ml/p/000000000000523183_EA"
   },
   {
     "Store": "https://www.pnp.co.za",
@@ -785,6 +785,20 @@
   },
   {
     "Store": "https://www.pnp.co.za",
+    "Name": "Alvi's Drift Reserve Cvc 750ml",
+    "Price": "R130",
+    "Deal": "Smart Price: R115.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Blends/Alvi%27s-Drift-Reserve-Cvc-750ml/p/000000000000687731_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
+    "Name": "Boschendal 1685 Chardonnay 750ml",
+    "Price": "R120",
+    "Deal": "Smart Price: R105.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Chardonnay/Boschendal-1685-Chardonnay-750ml/p/000000000000354738_EA"
+  },
+  {
+    "Store": "https://www.pnp.co.za",
     "Name": "Jacques Mouton Chardonnay 750ml",
     "Price": "R110",
     "Deal": "Smart Price: R95.00",
@@ -792,66 +806,10 @@
   },
   {
     "Store": "https://www.pnp.co.za",
-    "Name": "Cederberg Chenin Blanc 750ml",
-    "Price": "R115",
-    "Deal": "Smart Price: R100.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Chenin-Blanc/Cederberg-Chenin-Blanc-750ml/p/000000000000523183_EA"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
     "Name": "Durbanville Hills Chenin Blanc 750ml x 6",
     "Price": "R510",
     "Deal": "Wine Club members save 20%",
     "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Chenin-Blanc/Durbanville-Hills-Chenin-Blanc-750ml-x-6/p/000000000000863577_CS"
-  },
-  {
-    "Store": "https://www.pnp.co.za",
-    "Name": "Alvi's Drift Reserve Sauv Blanc 750ml",
-    "Price": "R130",
-    "Deal": "Smart Price: R115.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Alvi%27s-Drift-Reserve-Sauv-Blanc-750ml/p/000000000000887013_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
-    "Name": " Four Cousins Natural Sweet Red (1 x 1.5 l)",
-    "Price": " R 75",
-    "Deal": "You save R 15",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/other-red-varieties/four-cousins-natural-sweet-red-1-x-1-5-l-/p/000000000000100396_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
-    "Name": " Warwick The First Lady Cabernet Sauvignon (1 x 750 ml)",
-    "Price": " R 99",
-    "Deal": "You save R 6",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/cabernet-sauvignon/warwick-the-first-lady-cabernet-sauvignon-1-x-750-ml-/p/000000000000139928_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
-    "Name": " Arabella Cabernet Sauvignon (1 x 750ml)",
-    "Price": " R 70",
-    "Deal": "You save R 2",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/cabernet-sauvignon/arabella-cabernet-sauvignon-1-x-750ml-/p/000000000000149223_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
-    "Name": " KWV Roodeberg (1 x 750ml)",
-    "Price": " R 89",
-    "Deal": "You save R 20",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/kwv-roodeberg-1-x-750ml-/p/000000000000054520_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
-    "Name": " Alvi's Drift Signature Merlot (1 x 750 ml)",
-    "Price": " R 66",
-    "Deal": "You save R 12",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/merlot/alvi-s-drift-signature-merlot-1-x-750-ml-/p/000000000000312304_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
-    "Name": " Pandora's Box The Professor's Pinotage (1 x 750 ml)",
-    "Price": " R 36",
-    "Deal": "You save R 2",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinotage/pandora-s-box-the-professor-s-pinotage-1-x-750-ml-/p/000000000000347795_EA"
   },
   {
     "Store": "https://www.makro.co.za",
@@ -862,17 +820,10 @@
   },
   {
     "Store": "https://www.makro.co.za",
-    "Name": " Rupert & Rothschild Classique (1 x 750ml)",
-    "Price": " R 199",
-    "Deal": "You save R 20",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/rupert-rothschild-classique-1-x-750ml-/p/000000000002474134_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
-    "Name": " Simonsig Cabernet Sauvignon Shiraz (1 x 750ml)",
+    "Name": " Arabella Cabernet Sauvignon (1 x 750ml)",
     "Price": " R 70",
-    "Deal": "You save R 5",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/simonsig-cabernet-sauvignon-shiraz-1-x-750ml-/p/000000000000380117_EA"
+    "Deal": "You save R 2",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/cabernet-sauvignon/arabella-cabernet-sauvignon-1-x-750ml-/p/000000000000149223_EA"
   },
   {
     "Store": "https://www.makro.co.za",
@@ -883,10 +834,402 @@
   },
   {
     "Store": "https://www.makro.co.za",
-    "Name": " Pandora's Box The Italian Job (1 x 750 ml)",
-    "Price": " R 36",
-    "Deal": "You save R 15",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/pandora-s-box-the-italian-job-1-x-750-ml-/p/000000000000371925_EA"
+    "Name": " Simonsig Cabernet Sauvignon Shiraz (1 x 750ml)",
+    "Price": " R 70",
+    "Deal": "You save R 5",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/simonsig-cabernet-sauvignon-shiraz-1-x-750ml-/p/000000000000380117_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Arabella Pinotage (1 x 750ml)",
+    "Price": " R 70",
+    "Deal": "You save R 2",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinotage/arabella-pinotage-1-x-750ml-/p/000000000000206773_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Simonsig Tiara (1 x 750ml)",
+    "Price": " R 259",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/simonsig-tiara-1-x-750ml-/p/000000000000441350_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Plaisir De Merle Cabernet Sauvignon (1 x 750ml)",
+    "Price": " R 239",
+    "Deal": "You save R 20",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/cabernet-sauvignon/plaisir-de-merle-cabernet-sauvignon-1-x-750ml-/p/000000000000524134_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Kanonkop Pinotage (1 x 750ml)",
+    "Price": " R 449",
+    "Deal": "You save R 70",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinotage/kanonkop-pinotage-1-x-750ml-/p/000000000000552357_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Basson Proprietors Blend (1 x 750ml)",
+    "Price": " R 119",
+    "Deal": "You save R 20",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/basson-proprietors-blend-1-x-750ml-/p/000000000000364542_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " La Motte Millennium (1 x 750ml)",
+    "Price": " R 105",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/la-motte-millennium-1-x-750ml-/p/000000000000999154_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Swartland Syrah (1 x 750ml)",
+    "Price": " R 67",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/shiraz/swartland-syrah-1-x-750ml-/p/000000000001610024_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Saxenburg Private Collection Shiraz (1 x 750ml)",
+    "Price": " R 249",
+    "Deal": "You save R 10",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/shiraz/saxenburg-private-collection-shiraz-1-x-750ml-/p/000000000001971047_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Darling Cellars Cabernet Sauvignon (1 x 750ml)",
+    "Price": " R 79",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/cabernet-sauvignon/darling-cellars-cabernet-sauvignon-1-x-750ml-/p/000000000002117830_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Darling Cellars Shiraz (1 x 750ml)",
+    "Price": " R 79",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/shiraz/darling-cellars-shiraz-1-x-750ml-/p/000000000002117856_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Swartland Pinotage (1 x 750ml)",
+    "Price": " R 67",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinotage/swartland-pinotage-1-x-750ml-/p/000000000000379340_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Paul Cluver Estate Pinot Noir (1 x 750ml)",
+    "Price": " R 249",
+    "Deal": "You save R 26",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinot-noir/paul-cluver-estate-pinot-noir-1-x-750ml-/p/000000000002798445_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Darling Cellars Chocoholic Pinotage (1 x 750 ml)",
+    "Price": " R 79",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinotage/darling-cellars-chocoholic-pinotage-1-x-750-ml-/p/000000000000255412_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Lanzerac Cabernet Sauvignon (1 x 750ml)",
+    "Price": " R 219",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/cabernet-sauvignon/lanzerac-cabernet-sauvignon-1-x-750ml-/p/000000000000270119_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Bartinney Noble Savage Cabernet Sauvignon/Shiraz (1 x 750ml)",
+    "Price": " R 89",
+    "Deal": "You save R 26",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/bartinney-noble-savage-cabernet-sauvignon-shiraz-1-x-750ml-/p/000000000000266151_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Ernie Els Signature (1 x 750ml)",
+    "Price": " R 819",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/ernie-els-signature-750ml/p/000000000000029793_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Beyerskloof Pinotage Reserve (1 x 750ml)",
+    "Price": " R 159",
+    "Deal": "You save R 20",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinotage/beyerskloof-pinotage-reserve-1-x-750ml-/p/000000000000030438_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Boekenhoutskloof Chocolate Block (1 x 3L)",
+    "Price": " R 899",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/other-red-varieties/boekenhoutskloof-chocolate-block-1-x-3l-/p/000000000000282485_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Boekenhoutskloof The Chocolate Block (1.5L)",
+    "Price": " R 459",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/other-red-varieties/boekenhoutskloof-the-chocolate-block-1-5l-/p/000000000000151262_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Beyerskloof Traildust (1 x 750 ml)",
+    "Price": " R 159",
+    "Deal": "You save R 20",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/beyerskloof-traildust-1-x-750-ml-/p/000000000000403892_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Meerlust Collection in 5 Bottle Wooden Box (5 x 750ML)",
+    "Price": " R 2,199",
+    "Deal": "You save R 100",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/cabernet-sauvignon/meerlust-collection-in-5-bottle-wooden-box-5-x-750ml-/p/000000000000398128_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Eikendal Classique in Wooden Box (1 x 750ml)",
+    "Price": " R 379",
+    "Deal": "You save R 10",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/eikendal-classique-in-wooden-box-1-x-750ml-/p/000000000000013705_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Old Road Wine Co. Avil Shiraz (1 x 750ml)",
+    "Price": " R 70",
+    "Deal": "You save R 24",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/shiraz/old-road-wine-co-avil-shiraz-1-x-750ml-/p/000000000000376081_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Delaire Graff Botmanskop (1 x 750ml)",
+    "Price": " R 269",
+    "Deal": "You save R 25",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/delaire-graff-botmanskop-1-x-750ml-/p/000000000000215130_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Arabella Shiraz (1 x 750ml)",
+    "Price": " R 70",
+    "Deal": "You save R 2",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/shiraz/arabella-shiraz-1-x-750ml-/p/000000000000150086_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Backsberg Cabernet Sauvignon (1 x 750ml)",
+    "Price": " R 109",
+    "Deal": "You save R 20",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/cabernet-sauvignon/backsberg-cabernet-sauvignon-1-x-750ml-/p/000000000000028782_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Backsberg Pinotage (1 x 750ml)",
+    "Price": " R 109",
+    "Deal": "You save R 10",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinotage/backsberg-pinotage-1-x-750ml-/p/000000000000007631_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Du Toitskloof Selected Vineyards Merlot (1 x 750ml)",
+    "Price": " R 69",
+    "Deal": "You save R 10",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/merlot/du-toitskloof-selected-vineyards-merlot-1-x-750ml-/p/000000000000020603_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Morgenster Lourens River Valley (1 x 750ml)",
+    "Price": " R 209",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/morgenster-lourens-river-valley-1-x-750ml-/p/000000000000151600_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Saxenburg Private Collection Cabernet Sauvignon (1 x 750ml)",
+    "Price": " R 249",
+    "Deal": "You save R 10",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/cabernet-sauvignon/saxenburg-private-collection-cabernet-sauvignon-1-x-750ml-/p/000000000000151629_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Swartland Dry Red (1 x 750ml)",
+    "Price": " R 62",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/swartland-dry-red-1-x-750ml-/p/000000000000152919_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Ridgeback Merlot (1 x 750ml)",
+    "Price": " R 169",
+    "Deal": "You save R 30",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/merlot/ridgeback-merlot-750ml/p/000000000000051703_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Lanzerac Pinotage (1 x 750 ml)",
+    "Price": " R 219",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinotage/lanzerac-pinotage-1-x-750-ml-/p/000000000000191613_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Vrede En Lust Boet Erasmus (1 x 750ml)",
+    "Price": " R 219",
+    "Deal": "You save R 20",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/vrede-en-lust-boet-erasmus-1-x-750ml-/p/000000000000192928_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Laibach The Ladybird Red (1 x 750ml)",
+    "Price": " R 119",
+    "Deal": "You save R 20",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/laibach-the-ladybird-red-1-x-750ml-/p/000000000000069133_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Arabella Merlot (1 x 750ml)",
+    "Price": " R 70",
+    "Deal": "You save R 2",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/merlot/arabella-merlot-1-x-750ml-/p/000000000000159765_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Le Riche Richesse (1 x 750ml)",
+    "Price": " R 159",
+    "Deal": "You save R 20",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/le-riche-richesse-1-x-750ml-/p/000000000000159764_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " KWV Roodeberg (1 x 1.5L)",
+    "Price": " R 259",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/other-red-varieties/kwv-roodeberg-1-x-1-5l-/p/000000000000064122_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Vrede Charme Shiraz (1 x 750ml)",
+    "Price": " R 89",
+    "Deal": "You save R 26",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/shiraz/vrede-charme-shiraz-1-x-750ml-/p/000000000000386345_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Kanonkop Kadette (1 x 750 ml)",
+    "Price": " R 99",
+    "Deal": "You save R 16",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/kanonkop-kadette-1-x-750-ml-/p/000000000000124761_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Raka Biography Shiraz (1 x 750ml)",
+    "Price": " R 139",
+    "Deal": "You save R 26",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/shiraz/raka-biography-shiraz-1-x-750ml-/p/000000000000063089_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Basson Merlot (1 x 750ml)",
+    "Price": " R 119",
+    "Deal": "You save R 26",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/merlot/basson-merlot-1-x-750ml-/p/000000000000364541_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " De Grendel Merlot (1 x 750ml)",
+    "Price": " R 170",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/merlot/de-grendel-merlot-1-x-750ml-/p/000000000000091434_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Jakkalsvlei Pinotage (1 x 750ml)",
+    "Price": " R 99",
+    "Deal": "You save R 10",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinotage/jakkalsvlei-pinotage-1-x-750ml-/p/000000000000376924_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Glen Carlou Merlot (1 x 750 ml)",
+    "Price": " R 149",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/merlot/glen-carlou-merlot-1-x-750-ml-/p/000000000000220120_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Mulderbosch Faithful Hound Red (1 x 750ml)",
+    "Price": " R 139",
+    "Deal": "You save R 16",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/mulderbosch-faithful-hound-red-1-x-750ml-/p/000000000001219374_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Paul Cluver Village Pinot Noir (1 x 750ml)",
+    "Price": " R 130",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinot-noir/paul-cluver-village-pinot-noir-1-x-750ml-/p/000000000000270230_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Alto Cabernet Sauvignon (1 x 750 ml)",
+    "Price": " R 229",
+    "Deal": "You save R 40",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/cabernet-sauvignon/alto-cabernet-sauvignon-1-x-750-ml-/p/000000000000783796_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Boekenhoutskloof Chocolate Block (1 x 750ml)",
+    "Price": " R 234",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/boekenhoutskloof-chocolate-block-1-x-750ml-/p/000000000000064267_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Backsberg Merlot (1 x 750ml)",
+    "Price": " R 100",
+    "Deal": "You save R 29",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/merlot/backsberg-merlot-1-x-750ml-/p/000000000001612312_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Warwick Professor Black Pitch Black (1 x 750ml)",
+    "Price": " R 199",
+    "Deal": "You save R 10",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/warwick-professor-black-pitch-black-1-x-750ml-/p/000000000000393455_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Alvi's Drift Signature Shiraz (1 x 750 ml)",
+    "Price": " R 66",
+    "Deal": "You save R 12",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/shiraz/alvi-s-drift-signature-shiraz-1-x-750-ml-/p/000000000000306464_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Alvi's Drift Signature Merlot (1 x 750 ml)",
+    "Price": " R 66",
+    "Deal": "You save R 12",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/merlot/alvi-s-drift-signature-merlot-1-x-750-ml-/p/000000000000312304_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " KWV Roodeberg (1 x 750ml)",
+    "Price": " R 89",
+    "Deal": "You save R 20",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/kwv-roodeberg-1-x-750ml-/p/000000000000054520_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Rupert & Rothschild Classique (1 x 750ml)",
+    "Price": " R 199",
+    "Deal": "You save R 20",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/rupert-rothschild-classique-1-x-750ml-/p/000000000002474134_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Arabella Pinotage (6 x 750ml)",
+    "Price": " R 240",
+    "Deal": "You save R 159",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinotage/arabella-pinotage-6-x-750ml-/p/000000000000206773_PK"
   },
   {
     "Store": "https://www.makro.co.za",
@@ -904,27 +1247,6 @@
   },
   {
     "Store": "https://www.makro.co.za",
-    "Name": " Alvi's Drift Signature Pinotage (1 x 750 ml)",
-    "Price": " R 66",
-    "Deal": "You save R 12",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinotage/alvi-s-drift-signature-pinotage-1-x-750-ml-/p/000000000000284631_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
-    "Name": " Alvi's Drift Signature Shiraz (1 x 750 ml)",
-    "Price": " R 66",
-    "Deal": "You save R 12",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/shiraz/alvi-s-drift-signature-shiraz-1-x-750-ml-/p/000000000000306464_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
-    "Name": " Pandora's Box The Bell Pepper Cabernet Sauvignon (1 x 750 ml)",
-    "Price": " R 36",
-    "Deal": "You save R 15",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/cabernet-sauvignon/pandora-s-box-the-bell-pepper-cabernet-sauvignon-1-x-750-ml-/p/000000000000298984_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
     "Name": " Pandora's Box Merlot (1 x 750 ml)",
     "Price": " R 36",
     "Deal": "You save R 2",
@@ -932,24 +1254,10 @@
   },
   {
     "Store": "https://www.makro.co.za",
-    "Name": " Arabella Pinotage (1 x 750ml)",
-    "Price": " R 70",
-    "Deal": "You save R 2",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinotage/arabella-pinotage-1-x-750ml-/p/000000000000206773_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
-    "Name": " Arabella Merlot (1 x 750ml)",
-    "Price": " R 70",
-    "Deal": "You save R 2",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/merlot/arabella-merlot-1-x-750ml-/p/000000000000159765_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
-    "Name": " Four Cousins Dry Red (1 x 1.5 l)",
-    "Price": " R 75",
-    "Deal": "You save R 15",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/other-red-varieties/four-cousins-dry-red-1-x-1-5-l-/p/000000000000041464_EA"
+    "Name": " Alvi's Drift Signature Pinotage (1 x 750 ml)",
+    "Price": " R 66",
+    "Deal": "You save R 12",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinotage/alvi-s-drift-signature-pinotage-1-x-750-ml-/p/000000000000284631_EA"
   },
   {
     "Store": "https://www.makro.co.za",
@@ -960,6 +1268,27 @@
   },
   {
     "Store": "https://www.makro.co.za",
+    "Name": " Pandora's Box The Bell Pepper Cabernet Sauvignon (1 x 750 ml)",
+    "Price": " R 36",
+    "Deal": "You save R 15",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/cabernet-sauvignon/pandora-s-box-the-bell-pepper-cabernet-sauvignon-1-x-750-ml-/p/000000000000298984_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Pandora's Box The Professor's Pinotage (1 x 750 ml)",
+    "Price": " R 36",
+    "Deal": "You save R 2",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/pinotage/pandora-s-box-the-professor-s-pinotage-1-x-750-ml-/p/000000000000347795_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Four Cousins Dry Red (1 x 1.5 l)",
+    "Price": " R 75",
+    "Deal": "You save R 15",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/other-red-varieties/four-cousins-dry-red-1-x-1-5-l-/p/000000000000041464_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
     "Name": " Beyerskloof Pinotage (1 x 250ml)",
     "Price": " R 34",
     "Deal": "",
@@ -967,10 +1296,45 @@
   },
   {
     "Store": "https://www.makro.co.za",
-    "Name": " Old Road Wine Co. Avil Shiraz (1 x 750ml)",
-    "Price": " R 70",
-    "Deal": "You save R 24",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/shiraz/old-road-wine-co-avil-shiraz-1-x-750ml-/p/000000000000376081_EA"
+    "Name": " Four Cousins Natural Sweet Red (1 x 1.5 l)",
+    "Price": " R 75",
+    "Deal": "You save R 15",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/other-red-varieties/four-cousins-natural-sweet-red-1-x-1-5-l-/p/000000000000100396_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Warwick The First Lady Cabernet Sauvignon (1 x 750 ml)",
+    "Price": " R 99",
+    "Deal": "You save R 6",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/cabernet-sauvignon/warwick-the-first-lady-cabernet-sauvignon-1-x-750-ml-/p/000000000000139928_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Arabella Cabernet Sauvignon (6 x 750ml)",
+    "Price": " R 240",
+    "Deal": "You save R 159",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/cabernet-sauvignon/arabella-cabernet-sauvignon-6-x-750ml-/p/000000000000149223_PK"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Arabella Shiraz (6 x 750ml)",
+    "Price": " R 240",
+    "Deal": "You save R 159",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/shiraz/arabella-shiraz-6-x-750ml-/p/000000000000150086_PK"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Arabella Merlot (6 x 750ml)",
+    "Price": " R 240",
+    "Deal": "You save R 159",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/merlot/arabella-merlot-6-x-750ml-/p/000000000000159765_PK"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Pandora's Box The Italian Job (1 x 750 ml)",
+    "Price": " R 36",
+    "Deal": "You save R 15",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/blended-red-wine/pandora-s-box-the-italian-job-1-x-750-ml-/p/000000000000371925_EA"
   },
   {
     "Store": "https://www.makro.co.za",
@@ -981,24 +1345,129 @@
   },
   {
     "Store": "https://www.makro.co.za",
-    "Name": " Arabella Shiraz (1 x 750ml)",
-    "Price": " R 70",
-    "Deal": "You save R 2",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/red-wine/shiraz/arabella-shiraz-1-x-750ml-/p/000000000000150086_EA"
+    "Name": " Paul Cluver Estate Chardonnay (1 x 750ml)",
+    "Price": " R 269",
+    "Deal": "You save R 30",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chardonnay/paul-cluver-estate-chardonnay-1-x-750ml-/p/000000000000148527_EA"
   },
   {
     "Store": "https://www.makro.co.za",
-    "Name": " De Wetshof Limestone Hill Chardonnay (1 x 750 ml)",
-    "Price": " R 89",
-    "Deal": "You save R 11",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chardonnay/de-wetshof-limestone-hill-chardonnay-1-x-750-ml-/p/000000000000111640_EA"
+    "Name": " Backsberg Chardonnay (1 x 750ml)",
+    "Price": " R 79",
+    "Deal": "You save R 10",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chardonnay/backsberg-chardonnay-1-x-750ml-/p/000000000000027911_EA"
   },
   {
     "Store": "https://www.makro.co.za",
-    "Name": " Four Cousins Natural Sweet White (1 x 1.5L)",
+    "Name": " Boschendal Rachel's Chenin Blanc (1 x 750ml)",
+    "Price": " R 65",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chenin-blanc/boschendal-rachel-s-chenin-blanc-1-x-750ml-/p/000000000001140828_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Kleine Zalze Chenin Blanc (1 x 750 ml)",
+    "Price": " R 85",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chenin-blanc/kleine-zalze-chenin-blanc-1-x-750-ml-/p/000000000002285231_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Backsberg Chenin Blanc (1 x 750 ml)",
+    "Price": " R 59",
+    "Deal": "You save R 10",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chenin-blanc/backsberg-chenin-blanc-1-x-750-ml-/p/000000000000387088_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Fat Bastard Chardonnay (1 x 750ml)",
+    "Price": " R 99",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chardonnay/fat-bastard-chardonnay-1-x-750ml-/p/000000000002657694_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Fat Bastard Chenin Blanc (1 x 750ml)",
+    "Price": " R 99",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chenin-blanc/fat-bastard-chenin-blanc-1-x-750ml-/p/000000000000375935_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Bartinney Chardonnay (1 x 750ml)",
+    "Price": " R 219",
+    "Deal": "You save R 26",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chardonnay/bartinney-chardonnay-1-x-750ml-/p/000000000000266152_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Warwick First Lady Chardonnay (1 x 750ml)",
+    "Price": " R 95",
+    "Deal": "You save R 5",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chardonnay/warwick-first-lady-chardonnay-1-x-750ml-/p/000000000000225930_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Spier Chardonnay (1 x 750 ml)",
     "Price": " R 75",
-    "Deal": "You save R 15",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/white-wine-magnums/four-cousins-natural-sweet-white-1-x-1-5l-/p/000000000000149093_EA"
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chardonnay/spier-chardonnay-1-x-750-ml-/p/000000000000014226_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Tokara Chardonnay (1 x 750ml)",
+    "Price": " R 99",
+    "Deal": "You save R 10",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chardonnay/tokara-chardonnay-750ml/p/000000000000168715_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Rustenberg Unwooded Chardonnay (1 x 750ml)",
+    "Price": " R 95",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chardonnay/rustenberg-unwooded-chardonnay-1-x-750ml-/p/000000000000193638_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Haute Cabriere Chardonnay Unwooded (1 x 750ml)",
+    "Price": " R 85",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chardonnay/haute-cabriere-chardonnay-unwooded-1-x-750ml-/p/000000000000404433_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Kleine Zalze Chardonnay (1 x 750 ml)",
+    "Price": " R 85",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chardonnay/kleine-zalze-chardonnay-1-x-750-ml-/p/000000000000202610_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Boschendal Le Bouquet (1 x 750ml)",
+    "Price": " R 65",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/blended-white-wine---sweet/boschendal-le-bouquet-1-x-750ml-/p/000000000000382382_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Glen Carlou Chardonnay (1 x 750 ml)",
+    "Price": " R 165",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chardonnay/glen-carlou-chardonnay-1-x-750-ml-/p/000000000000971880_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Ken Forrester Old Vine Reserve Chenin Blanc (1 x 750 ml)",
+    "Price": " R 149",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chenin-blanc/ken-forrester-reserve-chenin-blanc-750ml/p/000000000000944242_EA"
+  },
+  {
+    "Store": "https://www.makro.co.za",
+    "Name": " Paul Cluver Village Chardonnay (1 x 750ml)",
+    "Price": " R 130",
+    "Deal": "",
+    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chardonnay/paul-cluver-village-chardonnay-1-x-750ml-/p/000000000000402463_EA"
   },
   {
     "Store": "https://www.makro.co.za",
@@ -1009,37 +1478,9 @@
   },
   {
     "Store": "https://www.makro.co.za",
-    "Name": " Four Cousins Dry White (1 x 1.5 l)",
-    "Price": " R 75",
-    "Deal": "You save R 15",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/white-wine-magnums/four-cousins-dry-white-1-x-1-5-l-/p/000000000000013503_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
-    "Name": " Kaapzicht Chenin Blanc (1 x 750ml)",
-    "Price": " R 70",
-    "Deal": "You save R 5",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chenin-blanc/kaapzicht-chenin-blanc-1-x-750ml-/p/000000000000144929_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
     "Name": " Durbanville Hills Chardonnay (1 x 750 ml)",
     "Price": " R 79",
     "Deal": "",
     "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chardonnay/durbanville-hills-chardonnay-1-x-750-ml-/p/000000000002366429_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
-    "Name": " Pandora's Box The Godfather Pinot Gris (1 x 750ml)",
-    "Price": " R 36",
-    "Deal": "You save R 15",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/other-white-varieties/pandora-s-box-the-godfather-pinot-gris-1-x-750ml-/p/000000000000371381_EA"
-  },
-  {
-    "Store": "https://www.makro.co.za",
-    "Name": " Kleine Zalze Chenin Blanc (1 x 750 ml)",
-    "Price": " R 70",
-    "Deal": "You save R 15",
-    "URL": "https://www.makro.co.za/beverages-liquor/wines/white-wine/chenin-blanc/kleine-zalze-chenin-blanc-1-x-750-ml-/p/000000000002285231_EA"
   }
 ]
