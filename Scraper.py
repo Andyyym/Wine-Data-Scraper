@@ -34,7 +34,8 @@ for winelink in WooliesWine:
 
 
         WooliesItems = {
-            'Store': baseurlWoolies,
+
+            'Store': 'WoolWorths',
             'Name': title,
             'Price': price,
             'Deal': deal,
@@ -65,7 +66,7 @@ for pnpwinelinks in pnpWine:
         link = item.find('a', {'class': 'js-potential-impression-click'})
 
         pnpItems = {
-            'Store': baseurlpnp,
+            'Store': 'PicknPay',
             'Name': title,
             'Price': currentprice,
             'Deal': promotion,
@@ -96,7 +97,7 @@ for makrowinelinks in makroWine:
         link = item.find('a', {'class': 'product-tile-inner__img js-gtmProductLinkClickEvent'})
 
         MakroItems = {
-            'Store': baseurlmakro,
+            'Store': 'Makro',
             'Name': title,
             'Price': price,
             'Deal': deal,
