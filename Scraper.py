@@ -112,7 +112,7 @@ print('Makro Complete!')
 
 combineWine = [*WooliesProducts, *pnpProducts, *MakroProducts]
 
-with open('./public/WineData.json', 'w') as f:
+with open('./public/Data/WineData.json', 'w') as f:
     json.dump(combineWine, f, indent=2)
 
 # def stopTheScript():

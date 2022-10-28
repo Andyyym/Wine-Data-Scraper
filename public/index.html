@@ -1,29 +1,41 @@
 <!DOCTYPE html>
-<html>
- <head>
-  <title>Wine Sales</title>
-  <link rel="stylesheet" href="./CSS/style.css">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wine Deals</title>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.5.2/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script> <!--Scrips for searchbar-->
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/> <!--CSS for searchbar-->
+   
+    <link rel="stylesheet" href="./CSS/style.css"/>
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"/>
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet"/>
-
-<title>Wine Specials</title>
 </head>
-
 <body>
-  <div class="row container">
-    <div class="input-field col s6">
-      <h5 class="center-align">
-        <i class="small material-icons">wine_bar</i>Search For Great Wine Deal's
-      </h5>
-      <input placeholder="What are you looking for?" id="search" type="text" class="validate" black />
-    </div>
-  </div>
-  <div id="result"></div>
-  <script src="./JS/script.js"></script>
-</body>
+    <header class="container-fluid">
+        <div class="container text-center" id="searchBox">
+          <h1>Wine Specials</h1>
+          <div class="form col-xs-12">   
+              <input class="col-xs-9" id="searchBar" type="text" placeholder="search"/>
+              <span class="glyphicon glyphicon-search col-xs-1" data-toggle="tooltip" title="Search"></span>
+            </div>
+          </div>
+        </div>  
+      </header>
+      <div class="container mx-auto mt-4" >
+        <div class="row" id="output">
 
+        </div>
+    </div>
+      </div>
+</body>
+<script src="./JS/script.js"></script>
 </html>

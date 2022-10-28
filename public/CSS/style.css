@@ -1,43 +1,99 @@
-
-body {
-  background-color: rgb(208, 91, 91);
-  padding: 0 0 0 20%;
-  margin: 5%;
-  /* background-image:url('../background.jpg') ;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover; */
-}
-#result {
-  width: 50%;
-  padding-left: 16%;
+body{
+  background: #eee;
+  letter-spacing: 2px;
+  min-height: 101vh;
 }
 
-.search-input input{
-  height: 55px;
-  width: 100%;
-  outline: none;
-  border: none;
-  border-radius: 5px;
-  padding: 0 60px 0 20px;
-  font-size: 18px;
-  box-shadow: 0px 1px 5px rgba(0,0,0,0.1);
+a:hover, a:active{
+  text-decoration: none;
 }
 
-.search-input.active input{
-  border-radius: 5px 5px 0 0;
+input[type="text"], select{ 
+    outline: none;
 }
 
-.search-input .autocom-box{
+.col-xs-1{
+  padding:0;
+}
+
+h1{
+  font-family: 'Arvo', sans-serif;
+  color:#E35865;
+}
+
+header.container-fluid{
+  margin: 0;
+  background-color: #39404A;
+  box-shadow: 0 0px 3px 3px rgba(0,0,0,.4);
+  height: 100vh;
+  min-height: 150px;
+}
+
+.container{
+  max-width: 720px;
+  margin: auto;
+  padding: 0 50px;
+}
+
+ul{
   padding: 0;
-  opacity: 0;
-  pointer-events: none;
-  max-height: 280px;
-  overflow-y: auto;
 }
 
-.search-input.active .autocom-box{
-  padding: 10px 8px;
-  opacity: 1;
-  pointer-events: auto;
+input{
+  padding:0;
+  border-radius: 0;
+  border: none;
+  font-size: 20px;
+  color: #bbb;
+  background:none;
+  letter-spacing: 1px;
+  word-spacing: 10px;
+  font-family: 'Arvo', sans-serif;
+  padding: 0;
+  line-height: 25px;
+}
+
+#searchBox{
+  padding-top: 40vh;
+}
+
+button{
+  background: none;
+  border: none;
+}
+
+.form{
+  padding: 10px 0;
+  padding-right: 15px;
+  border: 3px solid #E35865;
+  
+}
+
+.form.col-xs-12{
+  padding-left: 0;
+}
+
+.glyphicon{
+  color: #E35865;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.glyphicon-search{
+  cursor: pointer;
+
+}
+
+#mainBody{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.card {
+  background: #222;
+  border: 1px solid #dd2476;
+  color: rgba(250, 250, 250, 0.8);
+  margin-bottom: 2rem;
+}
+:root {
+  --gradient: linear-gradient(to left top, #DD2476 10%, #FF512F 90%) !important;
 }
