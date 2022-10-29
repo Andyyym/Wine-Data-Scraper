@@ -15,9 +15,7 @@ baseurlmakro = 'https://www.makro.co.za'
 
 # ------------------ Woolworths Get links
 
-WooliesWine = [
-    'https://www.woolworths.co.za/cat/WCellar/Wine-Bubbles/Red-Wines/_/N-8slzftZxtznwk?No=0',
-    'https://www.woolworths.co.za/cat/WCellar/Wine-Bubbles/White-Wines/_/N-xtznwkZni26q6?No=0&inv=0']
+WooliesWine = ['https://www.woolworths.co.za/cat/WCellar/Wine-Bubbles/_/N-xtznwkZ1yphczq?No=0&Nrpp=500']
 
 for winelink in WooliesWine:
 
@@ -48,9 +46,7 @@ print('Woolworths Complete!')
 
 # ------------------ PicknPay Get links
 
-pnpWine = [
-    'https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/c/wine-423144840?q=%3Arelevance%3AisOnPromotion%3AOn%2BPromotion%3Acategory%3Ared-wine1527159649&pageSize=100',
-    'https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/c/wine-423144840?q=%3Arelevance%3AisOnPromotion%3AOn%2BPromotion%3Acategory%3Awhite-wine1527159649&pageSize=100']
+pnpWine = ['https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/c/wine-423144840?pageSize=200&q=%3Arelevance%3AisOnPromotion%3AOn%2BPromotion&show=Page#']
 
 for pnpwinelinks in pnpWine:
         
@@ -81,11 +77,14 @@ print('PicknPay Complete!')
 
 makroWine = [
     'https://www.makro.co.za/beverages-liquor/wines/red-wine/c/JFF?pageSize=80&q=%3Arelevance%3AsashOverlayTitle%3AOn%2BPromotion#',
-    'https://www.makro.co.za/beverages-liquor/wines/white-wine/c/JFG?q=%3Arelevance%3AsashOverlayTitle%3AOn%2BPromotion&text=&originalRange=#']
+    'https://www.makro.co.za/beverages-liquor/wines/white-wine/c/JFG?q=%3Arelevance%3AsashOverlayTitle%3AOn%2BPromotion&text=&originalRange=#',
+    'https://www.makro.co.za/beverages-liquor/wines/ros-wine/c/JFD?q=%3Arelevance%3AsashOverlayTitle%3AOn%2BPromotion&text=&originalRange=#',
+    'https://www.makro.co.za/beverages-liquor/wines/sparkling/c/JFE?q=%3Arelevance%3AsashOverlayTitle%3AOn%2BPromotion&text=&originalRange=#']
 
 for makrowinelinks in makroWine:
     r = requests.get(makrowinelinks)
     soup = BeautifulSoup(r.content, 'lxml')
+    time.sleep(5)
 
     makroproductlist = soup.find_all(
         'div', class_='mak-product-tiles-container__product-tile bv-product-tile mak-product-card-inner-wrapper')
