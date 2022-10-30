@@ -1,9 +1,12 @@
 from bs4 import BeautifulSoup
+from selenium.webdriver import Chrome
 from threading import Timer
 import time
 import requests
 import pandas as pd
 import json
+
+driver = Chrome(executable_path='C:\Program Files (x86)\chromedriver')
 
 WooliesProducts = []
 pnpProducts = []
@@ -15,77 +18,88 @@ baseurlmakro = 'https://www.makro.co.za'
 
 # ------------------ Woolworths Get links
 
-WooliesWine = ['https://www.woolworths.co.za/cat/WCellar/Wine-Bubbles/_/N-xtznwkZ1yphczq?No=0&Nrpp=500']
+driver.get('https://www.woolworths.co.za/cat/WCellar/Wine-Bubbles/_/N-xtznwkZ1yphczq?No=0&Nrpp=500')
 
-for winelink in WooliesWine:
+# ---- Page Scroller
 
-    r = requests.get(winelink)
-    soup = BeautifulSoup(r.content, 'lxml')
+total_height = int(driver.execute_script("return document.body.scrollHeight"))
 
-    Wooliesproductlist = soup.find_all('div', class_='product-list__item')
+for i in range(1, total_height, 500):
+    driver.execute_script("window.scrollTo(0, {});".format(i))
+    time.sleep(1)
 
-    for item in Wooliesproductlist:
-        title = item.find('a', {'class': 'range--title'}).text
-        price = item.find('strong', {'class': 'price'}).text
-        deal = item.find('div', {'class': 'product__special'}).text
-        link = item.find('a', {'class': 'product--view'})
+soup = BeautifulSoup(driver.page_source, 'lxml')
+
+Wooliesproductlist = soup.find_all('div', class_='product-list__item')
+
+for item in Wooliesproductlist:
+    title = item.find('a', {'class': 'range--title'}).text
+    price = item.find('strong', {'class': 'price'}).text
+    deal = item.find('div', {'class': 'product__special'}).text
+    link = item.find('a', {'class': 'product--view'})
+    img = item.find('img', {'class' :'product-card__img lazyloaded'})
 
 
-        WooliesItems = {
-
-            'Store': 'WoolWorths',
-            'Name': title,
-            'Price': price,
-            'Deal': deal,
-            'URL': baseurlWoolies + link['href']
-        }
-        WooliesProducts.append(WooliesItems)
+    WooliesItems = {
+        'Store': 'WoolWorths',
+        'Name': title,
+        'Price': price,
+        'Deal': deal,
+        'URL': baseurlWoolies + link['href'],
+        'Image' : img['src']
+    }
+    WooliesProducts.append(WooliesItems)
 
 print('Woolworths Complete!')
 
 
-# ------------------ PicknPay Get links
+# # ------------------ PicknPay Get links
+     
+r = requests.get('https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/c/wine-423144840?pageSize=200&q=%3Arelevance%3AisOnPromotion%3AOn%2BPromotion&show=Page#')
+soup = BeautifulSoup(r.content, 'lxml')
 
-pnpWine = ['https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/c/wine-423144840?pageSize=200&q=%3Arelevance%3AisOnPromotion%3AOn%2BPromotion&show=Page#']
+pnpproductlist = soup.find_all('div', class_='productCarouselItemContainer')
 
-for pnpwinelinks in pnpWine:
-        
-    r = requests.get(pnpwinelinks)
-    soup = BeautifulSoup(r.content, 'lxml')
+for item in pnpproductlist:
+    title = item.find('div', {'class': 'item-name'}).text
+    currentprice = item.find('div', {'class': 'currentPrice'}).text.strip()[:-2]
+    promotion = item.find('div', {'class': 'promotionContainer'}).text.strip()
+    link = item.find('a', {'class': 'js-potential-impression-click'})
+    img = item.find('img')
 
-    pnpproductlist = soup.find_all('div', class_='productCarouselItemContainer')
+    pnpItems = {
+        'Store': 'PicknPay',
+        'Name': title,
+        'Price': currentprice,
+        'Deal': promotion,
+        'URL': baseurlpnp + link['href'],
+        'Image' : img['src']
+    }
 
-    for item in pnpproductlist:
-        title = item.find('div', {'class': 'item-name'}).text
-        currentprice = item.find('div', {'class': 'currentPrice'}).text.strip()[:-2]
-        promotion = item.find('div', {'class': 'promotionContainer'}).text.strip()
-        link = item.find('a', {'class': 'js-potential-impression-click'})
-
-        pnpItems = {
-            'Store': 'PicknPay',
-            'Name': title,
-            'Price': currentprice,
-            'Deal': promotion,
-            'URL': baseurlpnp + link['href']
-        }
-
-        pnpProducts.append(pnpItems)
+    pnpProducts.append(pnpItems)
 
 print('PicknPay Complete!')
 
-# # ------------------ Makro Get links
+# ------------------ Makro Get links
 
-makroWine = [
+makroWine =[
     'https://www.makro.co.za/beverages-liquor/wines/red-wine/c/JFF?pageSize=80&q=%3Arelevance%3AsashOverlayTitle%3AOn%2BPromotion#',
     'https://www.makro.co.za/beverages-liquor/wines/white-wine/c/JFG?q=%3Arelevance%3AsashOverlayTitle%3AOn%2BPromotion&text=&originalRange=#',
     'https://www.makro.co.za/beverages-liquor/wines/ros-wine/c/JFD?q=%3Arelevance%3AsashOverlayTitle%3AOn%2BPromotion&text=&originalRange=#',
     'https://www.makro.co.za/beverages-liquor/wines/sparkling/c/JFE?q=%3Arelevance%3AsashOverlayTitle%3AOn%2BPromotion&text=&originalRange=#']
 
-for makrowinelinks in makroWine:
-    r = requests.get(makrowinelinks)
-    soup = BeautifulSoup(r.content, 'lxml')
-    time.sleep(5)
+for makrowinelinks in range(len(makroWine)):
 
+    driver.get(makroWine[makrowinelinks])
+
+    total_height = int(driver.execute_script("return document.body.scrollHeight"))
+
+    for i in range(1, total_height, 500):
+        driver.execute_script("window.scrollTo(0, {});".format(i))
+        time.sleep(1)
+
+    soup = BeautifulSoup(driver.page_source, 'lxml')
+    
     makroproductlist = soup.find_all(
         'div', class_='mak-product-tiles-container__product-tile bv-product-tile mak-product-card-inner-wrapper')
 
@@ -94,22 +108,25 @@ for makrowinelinks in makroWine:
         price = item.find('p', {'class': 'col-xs-12 price ONPROMOTION'}).text[:-2]
         deal = item.find('div', {'class': 'col-xs-12 saving'}).text[:-2]
         link = item.find('a', {'class': 'product-tile-inner__img js-gtmProductLinkClickEvent'})
-
+        img = item.find('img')
+        
         MakroItems = {
             'Store': 'Makro',
             'Name': title,
             'Price': price,
             'Deal': deal,
-            'URL': baseurlmakro + link['href']
+            'URL': baseurlmakro + link['href'],
+            'Image' : img['src']
         }
 
         MakroProducts.append(MakroItems)
 
+driver.quit()
 print('Makro Complete!')
 
 # # -------- Merging Arrays
 
-combineWine = [*WooliesProducts, *pnpProducts, *MakroProducts]
+combineWine = [*WooliesProducts, *pnpProducts,*MakroProducts]
 
 with open('./public/Data/WineData.json', 'w') as f:
     json.dump(combineWine, f, indent=2)

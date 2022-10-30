@@ -17,7 +17,7 @@ $(document).ready(function () {
               <div class="col-md-4">
               <a href=${value.URL}>
                   <div class="card" style="width: 18rem;" >
-                  <img src="./Data/background.jpg" class="card-img-top" alt="...">
+                  <img src=${value.Image} class="card-img-top" alt="...">
                       <div class="card-body">
                           <h5 class="card-title">${value.Name}</h5>
                           <h6 class="card-subtitle mb-2 text-muted">${value.Price} <br> ${value.Store}</br></h6>
