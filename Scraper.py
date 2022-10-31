@@ -1,3 +1,4 @@
+from heapq import merge
 from bs4 import BeautifulSoup
 from selenium.webdriver import Chrome
 from threading import Timer
@@ -126,10 +127,15 @@ print('Makro Complete!')
 
 # # -------- Merging Arrays
 
-combineWine = [*WooliesProducts, *pnpProducts,*MakroProducts]
+combineWine = [*WooliesProducts, *pnpProducts, *MakroProducts]
+
+combineWine.sort(key=lambda K: K['Name'])
 
 with open('./public/Data/WineData.json', 'w') as f:
-    json.dump(combineWine, f, indent=2)
+    json.dump(combineWine, f, indent=2,)
+
+print('Complete!')
+
 
 # def stopTheScript():
 #     exec(open("Scraper.py").read())
