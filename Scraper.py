@@ -1,10 +1,8 @@
-from heapq import merge
 from bs4 import BeautifulSoup
 from selenium.webdriver import Chrome
 from threading import Timer
 import time
 import requests
-import pandas as pd
 import json
 
 driver = Chrome(executable_path='C:\Program Files (x86)\chromedriver')
