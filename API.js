@@ -1,13 +1,16 @@
 const express = require('express');
 const fs = require('fs');
 const app = express();
-const port = 3030;
+const cors = require('cors');
+const port = 3000;
 
 // Helper function to read the wine data from the JSON file
 function getWineData() {
     const data = fs.readFileSync('./Data/WineData.json');
     return JSON.parse(data);
 }
+
+app.use(cors());
 
 // Route to get all wines
 app.get('/api/wines', (req, res) => {

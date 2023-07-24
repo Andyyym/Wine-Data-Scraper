@@ -82,11 +82,11 @@
    };
 
    storeFilter.change(function () {
-      $.getJSON('../Data/WineData.json', displayResults);
+      $.getJSON('http://localhost:3000/api/wines', displayResults);
    });
 
    searchButton.click(function () {
-      $.getJSON('../Data/WineData.json', displayResults);
+      $.getJSON('http://localhost:3000/api/wines', displayResults);
    });
 
    searchBar.keypress(function (e) {
@@ -96,7 +96,7 @@
    });
 
    // Load results on page load
-   $.getJSON('../Data/WineData.json', displayResults);
+   $.getJSON('http://localhost:3000/api/wines', displayResults);
 });
 
    </script>

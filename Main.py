@@ -20,7 +20,7 @@ URL_DETAILS = [
         'store': 'PicknPay',
         'base_url': 'https://www.pnp.co.za',
         'scraper': 'pnp_scraper',
-        'url': 'https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/c/wine-423144840?pageSize=200&q=%3Arelevance%3AisOnPromotion%3AOn%2BPromotion&show=Page#'
+        'url': 'https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/c/wine-423144840?q=%3Arelevance%3AisOnPromotion%3AOn%2BPromotion&text=&pageSize=500'
     },
     # Other stores...
 ]
@@ -42,7 +42,7 @@ def set_last_scrape_time(time):
 def pnp_scraper(base_url):
     pnpProducts = []
     r = requests.get(
-        'https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/c/wine-423144840?pageSize=200&q=%3Arelevance%3AisOnPromotion%3AOn%2BPromotion&show=Page#')
+        'https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/c/wine-423144840?q=%3Arelevance%3AisOnPromotion%3AOn%2BPromotion&text=&pageSize=500')
     soup = BeautifulSoup(r.content, 'lxml')
 
     pnpproductlist = soup.find_all(
@@ -134,13 +134,13 @@ def main():
 
     print('Complete!')
 
-scheduler = BlockingScheduler()
+#scheduler = BlockingScheduler()
 
 # Schedule the function to run every 12 hours
-scheduler.add_job(main, 'interval', hours=6)
+#scheduler.add_job(main, 'interval', hours=6)
 
 # Start the scheduler
-scheduler.start()
+#scheduler.start()
 
 if __name__ == "__main__":
     main()

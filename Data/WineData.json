@@ -1,11 +1,43 @@
 [
   {
     "Store": "WoolWorths",
-    "Name": " Berry Daiquiri Cooler 750 ml",
-    "Price": "R 67.99",
-    "Deal": "Buy any 2 for R120 Flavoured Wines",
-    "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/Woolworths-Berry-Daiquiri-Cooler-750-ml/_/A-20142797?isFromPLP=true",
-    "Image": "https://assets.woolworthsstatic.co.za/Berry-Daiquiri-Cooler-750-ml-20142797.jpg?V=C5cQ&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE1LTAzLTEyLzIwMTQyNzk3X2hlcm8uanBnIn0&w=290&q=85"
+    "Name": " Adama HER Chenin Blanc 750 ml",
+    "Price": "R 84.99",
+    "Deal": "Buy any 2 save 20% HER Wine Collection",
+    "URL": "https://www.woolworths.co.za/prod/Food/Wine-Bubbles/New-In/Adama-HER-Chenin-Blanc-750-ml/_/A-6001651100662?isFromPLP=true",
+    "Image": "https://assets.woolworthsstatic.co.za/Adama-HER-Chenin-Blanc-750-ml-6001651100662.jpg?V=f8Sr&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA1LTA0LzYwMDE2NTExMDA2NjJfaGVyby5qcGcifQ&w=290&q=85"
+  },
+  {
+    "Store": "WoolWorths",
+    "Name": " Adama HER Pinotage 750 ml",
+    "Price": "R 89.99",
+    "Deal": "Buy any 2 save 20% HER Wine Collection",
+    "URL": "https://www.woolworths.co.za/prod/Food/Wine-Bubbles/New-In/Adama-HER-Pinotage-750-ml/_/A-6001651097597?isFromPLP=true",
+    "Image": "https://assets.woolworthsstatic.co.za/Adama-HER-Pinotage-750-ml-6001651097597.jpg?V=r%24JL&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA1LTA0LzYwMDE2NTEwOTc1OTdfaGVyby5qcGcifQ&w=290&q=85"
+  },
+  {
+    "Store": "WoolWorths",
+    "Name": " Adama HER Shiraz 750 ml",
+    "Price": "R 89.99",
+    "Deal": "Buy any 2 save 20% HER Wine Collection",
+    "URL": "https://www.woolworths.co.za/prod/Food/Wine-Bubbles/New-In/Adama-HER-Shiraz-750-ml/_/A-6001651124644?isFromPLP=true",
+    "Image": "https://assets.woolworthsstatic.co.za/Adama-HER-Shiraz-750-ml-6001651124644.jpg?V=Kwe8&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA1LTA0LzYwMDE2NTExMjQ2NDRfaGVyby5qcGcifQ&w=290&q=85"
+  },
+  {
+    "Store": "WoolWorths",
+    "Name": " Black Cherry Merlot 750 ml",
+    "Price": "R 87.99",
+    "Deal": "Wrewards Buy any 2 save 20% Flavour Wines",
+    "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/Woolworths-Black-Cherry-Merlot-750-ml/_/A-6009182767972?isFromPLP=true",
+    "Image": "https://assets.woolworthsstatic.co.za/Black-Cherry-Merlot-750-ml-6009182767972.jpg?V=dKru&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIwLTExLTAzLzYwMDkxODI3Njc5NzJfaGVyby5qcGcifQ&w=290&q=85"
+  },
+  {
+    "Store": "WoolWorths",
+    "Name": " Blackberry Cabernet Sauvignon 750 ml",
+    "Price": "R 87.99",
+    "Deal": "Wrewards Buy any 2 save 20% Flavour Wines",
+    "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/Woolworths-Blackberry-Cabernet-Sauvignon-750-ml/_/A-6009184167411?isFromPLP=true",
+    "Image": "https://assets.woolworthsstatic.co.za/Blackberry-Cabernet-Sauvignon-750-ml-6009184167411.jpg?V=FoTx&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIwLTExLTAzLzYwMDkxODQxNjc0MTFfaGVyby5qcGcifQ&w=290&q=85"
   },
   {
     "Store": "WoolWorths",
@@ -14,6 +46,14 @@
     "Deal": "Buy Any 2 Save R30 on This Months Wine Selection",
     "URL": "https://www.woolworths.co.za/prod/Food/Pack-a-Picnic/Wine-Bubbles/Pink-Wine/Boschendal-Blanc-de-Noir-750-ml/_/A-6009214797427?isFromPLP=true",
     "Image": "https://assets.woolworthsstatic.co.za/Boschendal-Blanc-de-Noir-750-ml-6009214797427.jpg?V=fn5k&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE5LTA4LTE1LzYwMDkyMTQ3OTc0MjdfaGVyby5qcGcifQ&w=290&q=85"
+  },
+  {
+    "Store": "WoolWorths",
+    "Name": " Cherry Cinsault 750 ml",
+    "Price": "R 87.99",
+    "Deal": "Buy any 2 save 20% HER Wine Collection",
+    "URL": "https://www.woolworths.co.za/prod/Online-Feature/Content/WCellar-New-Wines/Woolworths-Cherry-Cinsault-750-ml/_/A-6009223567424?isFromPLP=true",
+    "Image": "https://assets.woolworthsstatic.co.za/Cherry-Cinsault-750-ml-6009223567424.jpg?V=kvyO&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIxLTA5LTE1LzYwMDkyMjM1Njc0MjRfaGVyby5qcGcifQ&w=290&q=85"
   },
   {
     "Store": "WoolWorths",
@@ -41,19 +81,27 @@
   },
   {
     "Store": "WoolWorths",
-    "Name": " Fireside Gluhwein 750 ml",
-    "Price": "R 67.99",
-    "Deal": "Buy any 2 for R120 Flavoured Wines",
-    "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/Woolworths-Fireside-Gluhwein-750-ml/_/A-20130602?isFromPLP=true",
-    "Image": "https://assets.woolworthsstatic.co.za/Fireside-Gluhwein-750-ml-20130602.jpg?V=XG3Q&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE2LTAzLTAzLzIwMTMwNjAyX2hlcm8uanBnIn0&w=290&q=85"
-  },
-  {
-    "Store": "WoolWorths",
     "Name": " French L'Aqueduc 750 ml",
     "Price": "R 144.99",
     "Deal": "Buy Any 2 Save R30 on This Months Wine Selection",
     "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/French-L-Aqueduc-750-ml/_/A-6009171652111?isFromPLP=true",
     "Image": "https://assets.woolworthsstatic.co.za/French-L-Aqueduc-750-ml-6009171652111.jpg?V=ajeN&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE3LTEwLTAzLzYwMDkxNzE2NTIxMTFfaGVyby5qcGcifQ&w=290&q=85"
+  },
+  {
+    "Store": "WoolWorths",
+    "Name": " House Chardonnay Pinot Noir 750 ml",
+    "Price": "R 64.99",
+    "Deal": "Buy any 2 save 20% HER Wine Collection",
+    "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Save-10-/Wine/Woolworths-House-Chardonnay-Pinot-Noir-750-ml/_/A-6009214050256?isFromPLP=true",
+    "Image": "https://assets.woolworthsstatic.co.za/House-Chardonnay-Pinot-Noir-750-ml-6009214050256.jpg?V=QTaX&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE4LTEyLTE4LzYwMDkyMTQwNTAyNTZfaGVyby5qcGcifQ&w=290&q=85"
+  },
+  {
+    "Store": "WoolWorths",
+    "Name": " House Moscato 750 ml",
+    "Price": "R 64.99",
+    "Deal": "Buy any 2 save 20% HER Wine Collection",
+    "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Save-10-/Wine/Woolworths-House-Moscato-750-ml/_/A-6009207658988?isFromPLP=true",
+    "Image": "https://assets.woolworthsstatic.co.za/House-Moscato-750-ml-6009207658988.jpg?V=ZTUL&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTA4LTExLzYwMDkyMDc2NTg5ODhfaGVyby5qcGcifQ&w=290&q=85"
   },
   {
     "Store": "WoolWorths",
@@ -113,8 +161,24 @@
   },
   {
     "Store": "WoolWorths",
+    "Name": " Lemon & Lime Chardonnay 750 ml",
+    "Price": "R 82.99",
+    "Deal": "Wrewards Buy any 2 save 20% Flavour Wines",
+    "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/Lemon-Lime-Chardonnay-750-ml/_/A-6009217629671?isFromPLP=true",
+    "Image": "https://assets.woolworthsstatic.co.za/Lemon-Lime-Chardonnay-750-ml-6009217629671.jpg?V=j1dC&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTEyLTE1LzYwMDkyMTc2Mjk2NzFfaGVyby5qcGcifQ&w=290&q=85"
+  },
+  {
+    "Store": "WoolWorths",
+    "Name": " Mocha Shiraz 750 ml",
+    "Price": "R 87.99",
+    "Deal": "Wrewards Buy any 2 save 20% Flavour Wines",
+    "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/Mocha-Shiraz-750-ml/_/A-6001009021366?isFromPLP=true",
+    "Image": "https://assets.woolworthsstatic.co.za/Mocha-Shiraz-750-ml-6001009021366.jpg?V=9H9M&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTEwLTAzLzYwMDEwMDkwMjEzNjZfaGVyby5qcGcifQ&w=290&q=85"
+  },
+  {
+    "Store": "WoolWorths",
     "Name": " Neil Ellis Bush Vine Shiraz 750 ml",
-    "Price": "R 134.99",
+    "Price": "R 134.00",
     "Deal": "Buy Any 2 Save R30 on This Months Wine Selection",
     "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/Neil-Ellis-Bush-Vine-Shiraz-750-ml/_/A-6009195350000?isFromPLP=true",
     "Image": "https://assets.woolworthsstatic.co.za/Neil-Ellis-Bush-Vine-Shiraz-750-ml-6009195350000.jpg?V=IugI&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE2LTAzLTA0LzYwMDkxOTUzNTAwMDBfaGVyby5qcGcifQ&w=290&q=85"
@@ -193,11 +257,11 @@
   },
   {
     "Store": "WoolWorths",
-    "Name": " Passion Fruit Punch Cooler 750 ml",
-    "Price": "R 67.99",
-    "Deal": "Buy any 2 for R120 Flavoured Wines",
-    "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/Passion-Fruit-Punch-Cooler-750-ml/_/A-20159825?isFromPLP=true",
-    "Image": "https://assets.woolworthsstatic.co.za/Passion-Fruit-Punch-Cooler-750-ml-20159825.jpg?V=QgeJ&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE1LTAzLTEyLzIwMTU5ODI1X2hlcm8uanBnIn0&w=290&q=85"
+    "Name": " Passion Fruit Sauvignon Blanc 750 ml",
+    "Price": "R 82.99",
+    "Deal": "Wrewards Buy any 2 save 20% Flavour Wines",
+    "URL": "https://www.woolworths.co.za/prod/Online-Feature/Content/TASTE-GREAT-VALUE-WINES/Passion-Fruit-Sauvignon-Blanc-750-ml/_/A-6009195026417?isFromPLP=true",
+    "Image": "https://assets.woolworthsstatic.co.za/Passion-Fruit-Sauvignon-Blanc-750-ml-6009195026417.jpg?V=kZHY&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIxLTA4LTA1LzYwMDkxOTUwMjY0MTdfaGVyby5qcGcifQ&w=290&q=85"
   },
   {
     "Store": "WoolWorths",
@@ -209,11 +273,19 @@
   },
   {
     "Store": "WoolWorths",
-    "Name": " Pina Colada Cooler 750 ml",
-    "Price": "R 67.99",
-    "Deal": "Buy any 2 for R120 Flavoured Wines",
-    "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/Pina-Colada-Cooler-750-ml/_/A-6009184600710?isFromPLP=true",
-    "Image": "https://assets.woolworthsstatic.co.za/Pina-Colada-Cooler-750-ml-6009184600710.jpg?V=xlng&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDE0LTEwLTIwLzYwMDkxODQ2MDA3MTBfaGVyby5qcGcifQ&w=290&q=85"
+    "Name": " Peachy Chenin Blanc 750 ml",
+    "Price": "R 82.99",
+    "Deal": "Wrewards Buy any 2 save 20% Flavour Wines",
+    "URL": "https://www.woolworths.co.za/prod/Food/Pack-a-Picnic/Wine-Bubbles/White-Wine/Peachy-Chenin-Blanc-750-ml/_/A-6009182767965?isFromPLP=true",
+    "Image": "https://assets.woolworthsstatic.co.za/Peachy-Chenin-Blanc-750-ml-6009182767965.jpg?V=6bmB&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIyLTEwLTAzLzYwMDkxODI3Njc5NjVfaGVyby5qcGcifQ&w=290&q=85"
+  },
+  {
+    "Store": "WoolWorths",
+    "Name": " Plum Pinotage 750 ml",
+    "Price": "R 87.99",
+    "Deal": "Wrewards Buy any 2 save 20% Flavour Wines",
+    "URL": "https://www.woolworths.co.za/prod/Food/Promotions/Buy-2-Or-More-And-Save/Buy-any-2-Save-20-/Wines/Plum-Pinotage-750-ml/_/A-6009217629664?isFromPLP=true",
+    "Image": "https://assets.woolworthsstatic.co.za/Plum-Pinotage-750-ml-6009217629664.jpg?V=Zxnv&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIwLTA5LTA5LzYwMDkyMTc2Mjk2NjRfaGVyby5qcGcifQ&w=290&q=85"
   },
   {
     "Store": "WoolWorths",
@@ -241,6 +313,14 @@
   },
   {
     "Store": "WoolWorths",
+    "Name": " Vanilla Chardonnay 750 ml",
+    "Price": "R 82.99",
+    "Deal": "Wrewards Buy any 2 save 20% Flavour Wines",
+    "URL": "https://www.woolworths.co.za/prod/Food/Pack-a-Picnic/Wine-Bubbles/White-Wine/Vanilla-Chardonnay-750-ml/_/A-6009178662199?isFromPLP=true",
+    "Image": "https://assets.woolworthsstatic.co.za/Vanilla-Chardonnay-750-ml-6009178662199.jpg?V=GLta&o=eyJidWNrZXQiOiJ3dy1vbmxpbmUtaW1hZ2UtcmVzaXplIiwia2V5IjoiaW1hZ2VzL2VsYXN0aWNlcmEvcHJvZHVjdHMvaGVyby8yMDIwLTExLTAzLzYwMDkxNzg2NjIxOTlfaGVyby5qcGcifQ&w=290&q=85"
+  },
+  {
+    "Store": "WoolWorths",
     "Name": " Villiera Carte Blanche White Blend 750 ml",
     "Price": "R 74.99",
     "Deal": "Buy Any 2 Save R30 on This Months Wine Selection",
@@ -265,33 +345,9 @@
   },
   {
     "Store": "PicknPay",
-    "Name": "Alvi's Drift Signature Chenin Blanc 750ml",
-    "Price": "R80.00",
-    "Deal": "Smart Price: R70.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Chenin-Blanc/Alvi%27s-Drift-Signature-Chenin-Blanc-750ml/p/000000000000688541_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hb3/h90/10989089357854/silo-product-image-v2-21Oct2022-180149-6003514000843-Straight_on-65748-495_140Wx140H"
-  },
-  {
-    "Store": "PicknPay",
-    "Name": "Alvi's Drift Signature Pino Rose 750ml",
-    "Price": "R80.00",
-    "Deal": "Smart Price: R70.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Ros%C3%A9/Alvi%27s-Drift-Signature-Pino-Rose-750ml/p/000000000000758334_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hbd/h9a/10989097779230/silo-product-image-v2-21Oct2022-180149-6009879631135-Straight_on-65755-492_140Wx140H"
-  },
-  {
-    "Store": "PicknPay",
-    "Name": "Alvi's Drift Signature Sauvignon Blanc 750ml",
-    "Price": "R80.00",
-    "Deal": "Smart Price: R70.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Alvi%27s-Drift-Signature-Sauvignon-Blanc-750ml/p/000000000000688544_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h3a/h0d/11124112687134/silo-product-image-v2-16Mar2023-183442-6003514000829-Straight_on-112362-7536_140Wx140H"
-  },
-  {
-    "Store": "PicknPay",
     "Name": "Annabelle Cuvee Rose 750ml",
     "Price": "R100.00",
-    "Deal": "Smart Price: R85.00",
+    "Deal": "Smart Price: R80.00",
     "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/MCC%2C-Champagne-%26-Sparkling-Wine/Sparkling-Wine/Annabelle-Cuvee-Rose-750ml/p/000000000000800986_EA",
     "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/ha9/hda/11038028169246/silo-product-image-v2-03Dec2022-180107-6002323021858-Straight_on-78661-1749_140Wx140H"
   },
@@ -329,14 +385,6 @@
   },
   {
     "Store": "PicknPay",
-    "Name": "Bellingham Homestead Sauvignon Blanc 750ml",
-    "Price": "R100.00",
-    "Deal": "Buy Any 3, Pay For 2 (Smart Price)",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Bellingham-Homestead-Sauvignon-Blanc-750ml/p/000000000000257766_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hc4/hd3/10989141393438/silo-product-image-v2-21Oct2022-180156-6001506908740-Straight_on-66150-604_140Wx140H"
-  },
-  {
-    "Store": "PicknPay",
     "Name": "Bellingham Pear Tree White 750ml",
     "Price": "R60.00",
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
@@ -350,6 +398,14 @@
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
     "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Red-Blends/Beyerskloof-Synergy-750ml/p/000000000000118496_EA",
     "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h02/h3d/10957485342750/silo-product-image-v2-22Sep2022-180141-6006475000563-Straight_on-57597-421_140Wx140H"
+  },
+  {
+    "Store": "PicknPay",
+    "Name": "Bon Courage Blush Vin Doux 750ml",
+    "Price": "R100.00",
+    "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/MCC%2C-Champagne-%26-Sparkling-Wine/Sparkling-Wine/Bon-Courage-Blush-Vin-Doux-750ml/p/000000000000393596_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h7d/hcf/10989153386526/silo-product-image-v2-21Oct2022-180157-6007225000123-Straight_on-66175-623_140Wx140H"
   },
   {
     "Store": "PicknPay",
@@ -369,19 +425,19 @@
   },
   {
     "Store": "PicknPay",
+    "Name": "Boschendal Brut Rose Mcc 750ml",
+    "Price": "R200.00",
+    "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/MCC%2C-Champagne-%26-Sparkling-Wine/MCC/Boschendal-Brut-Rose-Mcc-750ml/p/000000000000250481_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd1/h67/10989155024926/silo-product-image-v2-21Oct2022-180158-6001660004302-Straight_on-66189-636_140Wx140H"
+  },
+  {
+    "Store": "PicknPay",
     "Name": "Boschendal Lanoy 750ml",
     "Price": "R90.00",
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
     "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Red-Blends/Boschendal-Lanoy-750ml/p/000000000000218815_EA",
     "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h3d/ha1/11037976395806/silo-product-image-v2-03Dec2022-180104-6001660003800-Straight_on-78591-1637_140Wx140H"
-  },
-  {
-    "Store": "PicknPay",
-    "Name": "Boschendal Pinot Noir Chardonnay 750ml",
-    "Price": "R100.00",
-    "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Ros%C3%A9/Boschendal-Pinot-Noir-Chardonnay-750ml/p/000000000000167101_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h85/hce/10989162233886/silo-product-image-v2-21Oct2022-180158-6001506908986-Straight_on-66196-646_140Wx140H"
   },
   {
     "Store": "PicknPay",
@@ -398,6 +454,14 @@
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
     "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Buitenverwachting-Sauvignon-Blanc-750ml/p/000000000000120679_EA",
     "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h3f/h0e/10989180715038/silo-product-image-v2-21Oct2022-180201-6001398115868-Straight_on-64982-688_140Wx140H"
+  },
+  {
+    "Store": "PicknPay",
+    "Name": "Casa De Ouro Graca W3 750ml",
+    "Price": "R60.00",
+    "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/White-Blends/Casa-De-Ouro-Graca-W3-750ml/p/000000000000247555_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hf6/h3c/10989197754398/silo-product-image-v2-21Oct2022-180202-6001452255004-Straight_on-65016-718_140Wx140H"
   },
   {
     "Store": "PicknPay",
@@ -433,6 +497,14 @@
   },
   {
     "Store": "PicknPay",
+    "Name": "Diemersdal Sauvignon Blanc 750ml",
+    "Price": "R100.00",
+    "Deal": "Smart Price: R85.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Diemersdal-Sauvignon-Blanc-750ml/p/000000000000109431_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h05/hcd/10829746700318/silo-product-image-v2-30Apr2022-180051-6004342000388-Straight_on-32351-17565_140Wx140H"
+  },
+  {
+    "Store": "PicknPay",
     "Name": "Diemersfontein Harlequin Red Blend 750ml",
     "Price": "R85.00",
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
@@ -454,6 +526,14 @@
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
     "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Red-Blends/Douglas-Green-St-Augustine-750ml/p/000000000000223671_EA",
     "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hf5/h4f/10989249724446/silo-product-image-v2-21Oct2022-180207-6001812010427-Straight_on-65852-837_140Wx140H"
+  },
+  {
+    "Store": "PicknPay",
+    "Name": "Drostdy Hof Claret Select 3L",
+    "Price": "R150.00",
+    "Deal": "Smart Price: R120.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Red-Blends/Drostdy-Hof-Claret-Select-3L/p/000000000000734452_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h11/hba/11001823690782/silo-product-image-v2-02Nov2022-180131-6001108088857-Straight_on-69329-1756_140Wx140H"
   },
   {
     "Store": "PicknPay",
@@ -481,14 +561,6 @@
   },
   {
     "Store": "PicknPay",
-    "Name": "Du Toitskloof Cabernet Shiraz 750ml",
-    "Price": "R70.00",
-    "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Shiraz/Du-Toitskloof-Cabernet-Shiraz-750ml/p/000000000000302836_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h31/h7c/10989267746846/silo-product-image-v2-21Oct2022-180209-6007676000963-Straight_on-65873-874_140Wx140H"
-  },
-  {
-    "Store": "PicknPay",
     "Name": "Du Toitskloof Chenin Blanc 750ml",
     "Price": "R70.00",
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
@@ -505,19 +577,11 @@
   },
   {
     "Store": "PicknPay",
-    "Name": "Durbanville Hill Cape Port Chenin Sauvignon 750ml",
-    "Price": "R80.00",
+    "Name": "Du Toitskloof Sauvignon Blanc 750ml",
+    "Price": "R70.00",
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Durbanville-Hill-Cape-Port-Chenin-Sauvignon-750ml/p/000000000000870012_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h67/h08/10855798931486/silo-product-image-v2-31May2022-180220-6001108104779-Straight_on-38283-29146_140Wx140H"
-  },
-  {
-    "Store": "PicknPay",
-    "Name": "Durbanville Hill Chenin Blanc Light 750ml",
-    "Price": "R90.00",
-    "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Chenin-Blanc/Durbanville-Hill-Chenin-Blanc-Light-750ml/p/000000000000860918_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h9f/h75/10971048214558/silo-product-image-v2-05Oct2022-180122-6001108102270-Straight_on-61322-1413_140Wx140H"
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/Du-Toitskloof-Sauvignon-Blanc-750ml/p/000000000000218206_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h70/h00/10989274300446/silo-product-image-v2-21Oct2022-180209-6007676000086-Straight_on-65881-876_140Wx140H"
   },
   {
     "Store": "PicknPay",
@@ -569,14 +633,6 @@
   },
   {
     "Store": "PicknPay",
-    "Name": "Gorgeous Pinot Noir Chardonnay 750ml",
-    "Price": "R90.00",
-    "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Chardonnay/Gorgeous-Pinot-Noir-Chardonnay-750ml/p/000000000000642381_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/he8/h73/11038022729758/silo-product-image-v2-03Dec2022-180107-6001506912792-Straight_on-78497-1743_140Wx140H"
-  },
-  {
-    "Store": "PicknPay",
     "Name": "Great Heart Red Blend 750ml",
     "Price": "R135.00",
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
@@ -601,6 +657,22 @@
   },
   {
     "Store": "PicknPay",
+    "Name": "J C Le Roux Nectar Demi Sec Rose 750ml",
+    "Price": "R100.00",
+    "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/MCC%2C-Champagne-%26-Sparkling-Wine/Sparkling-Wine/J-C-Le-Roux-Nectar-Demi-Sec-Rose-750ml/p/000000000000811351_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h3d/hc8/11047591870494/silo-product-image-v2-14Dec2022-180126-6001108098740-Straight_on-81949-5131_140Wx140H"
+  },
+  {
+    "Store": "PicknPay",
+    "Name": "JC Le Roux La Fleurette Non-Alcoholic 750ml",
+    "Price": "R95.00",
+    "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/MCC%2C-Champagne-%26-Sparkling-Wine/Sparkling-Wine/JC-Le-Roux-La-Fleurette-Non-Alcoholic-750ml/p/000000000000602464_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd0/h22/11010835415070/silo-product-image-v2-10Nov2022-180110-6001108071354-Straight_on-71921-6508_140Wx140H"
+  },
+  {
+    "Store": "PicknPay",
     "Name": "Kaapzicht Estate Cabernet Sauvignon Merlot 750ml",
     "Price": "R110.00",
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
@@ -609,11 +681,11 @@
   },
   {
     "Store": "PicknPay",
-    "Name": "Kanonkop Kadette Cabernet Sauvignon 750ml",
-    "Price": "R155.00",
-    "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Cabernet-Sauvignon/Kanonkop-Kadette-Cabernet-Sauvignon-750ml/p/000000000000845984_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h8c/h2b/10770767839262/silo-product-image-v2-15Mar2022-180157-6009801167930-Straight_on-6646-17964_140Wx140H"
+    "Name": "Kanonkop Kadette 750ml",
+    "Price": "R135.00",
+    "Deal": "Buy 2 For R200.00 (Smart Price)",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Red-Blends/Kanonkop-Kadette-750ml/p/000000000000207497_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h87/h06/10989392855070/silo-product-image-v2-21Oct2022-180226-6009801167039-Straight_on-66285-1151_140Wx140H"
   },
   {
     "Store": "PicknPay",
@@ -721,6 +793,14 @@
   },
   {
     "Store": "PicknPay",
+    "Name": "Millstream Rose 750ml",
+    "Price": "R55.00",
+    "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Ros%C3%A9/Millstream-Rose-750ml/p/000000000000774975_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hf6/hbe/11121937448990/silo-product-image-v2-16Mar2023-181804-6001506900744-Straight_on-119164-4004_140Wx140H"
+  },
+  {
+    "Store": "PicknPay",
     "Name": "Namaqua Sweet Red 750ml",
     "Price": "R50.00",
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
@@ -737,30 +817,6 @@
   },
   {
     "Store": "PicknPay",
-    "Name": "Nederburg Cabernet Sauvignon 750ml",
-    "Price": "R110.00",
-    "Deal": "Smart Price: R95.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Cabernet-Sauvignon/Nederburg-Cabernet-Sauvignon-750ml/p/000000000000189297_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hf8/hb9/10899762446366/silo-product-image-v2-13Jul2022-180121-6001452301862-Straight_on-49242-7018_140Wx140H"
-  },
-  {
-    "Store": "PicknPay",
-    "Name": "Nederburg Edelrood 750ml",
-    "Price": "R110.00",
-    "Deal": "Smart Price: R95.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Red-Blends/Nederburg-Edelrood-750ml/p/000000000000164483_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd5/h46/11124634517534/silo-product-image-v2-16Mar2023-183807-6001452283861-Straight_on-119836-8423_140Wx140H"
-  },
-  {
-    "Store": "PicknPay",
-    "Name": "Nederburg Merlot 750ml",
-    "Price": "R110.00",
-    "Deal": "Smart Price: R95.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Merlot/Nederburg-Merlot-750ml/p/000000000000398100_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hf5/h34/10899769753630/silo-product-image-v2-13Jul2022-180123-6001108001436-Straight_on-49268-7044_140Wx140H"
-  },
-  {
-    "Store": "PicknPay",
     "Name": "Perdeberg Soft Smooth Red 750ml",
     "Price": "R65.00",
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
@@ -769,11 +825,27 @@
   },
   {
     "Store": "PicknPay",
-    "Name": "Protea Shiraz 750ml",
-    "Price": "R90.00",
+    "Name": "Pongracz Brut Mcc 750ml",
+    "Price": "R190.00",
+    "Deal": "Smart Price: R160.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/MCC%2C-Champagne-%26-Sparkling-Wine/MCC/Pongracz-Brut-Mcc-750ml/p/000000000000231064_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hec/h63/11219609878558/silo-product-image-v2-08Jul2023-180223-6001497114502-Straight_on-160601-1110_140Wx140H"
+  },
+  {
+    "Store": "PicknPay",
+    "Name": "Pongracz Brut Rose Mcc 750ml",
+    "Price": "R190.00",
+    "Deal": "Smart Price: R160.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/MCC%2C-Champagne-%26-Sparkling-Wine/MCC/Pongracz-Brut-Rose-Mcc-750ml/p/000000000000395383_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h54/hea/10940803776542/silo-product-image-v2-02Sep2022-180159-6001108044556-Straight_on-55219-666_140Wx140H"
+  },
+  {
+    "Store": "PicknPay",
+    "Name": "Porcupine Ridge Cabernet Sauvignon 750ml",
+    "Price": "R85.00",
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Shiraz/Protea-Shiraz-750ml/p/000000000000728771_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h01/h80/10989529432094/silo-product-image-v2-21Oct2022-180244-6009800071313-Straight_on-66504-1446_140Wx140H"
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Cabernet-Sauvignon/Porcupine-Ridge-Cabernet-Sauvignon-750ml/p/000000000000181765_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hd9/hb0/10989514981406/silo-product-image-v2-21Oct2022-180243-6002039004527-Straight_on-66480-1420_140Wx140H"
   },
   {
     "Store": "PicknPay",
@@ -825,19 +897,19 @@
   },
   {
     "Store": "PicknPay",
-    "Name": "Robertson Dry White Wine Alcohol Free 750ml",
-    "Price": "R75.00",
-    "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Non-Alcoholic-Wine/Robertson-Dry-White-Wine-Alcohol-Free-750ml/p/000000000000839883_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h6d/h57/10550497804318/silo-product-image-v2-23Oct2021-180102-6002039012232-front-2802325-47119_140Wx140H"
-  },
-  {
-    "Store": "PicknPay",
     "Name": "Robertson Natural Sweet Rose 750ml",
     "Price": "R65.00",
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
     "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Ros%C3%A9/Robertson-Natural-Sweet-Rose-750ml/p/000000000000263357_EA",
     "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h31/hb0/11188410646558/silo-product-image-v2-01Jun2023-182714-6002039005746-Straight_on-146002-5660_140Wx140H"
+  },
+  {
+    "Store": "PicknPay",
+    "Name": "Robertson Natural Sweet White 1L",
+    "Price": "R45.00",
+    "Deal": "Buy Any 2 For R75.00 (Smart Price)",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Boxed-%26-Canned-Wine/Robertson-Natural-Sweet-White-1L/p/000000000000133030_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h61/hdd/10989557645342/silo-product-image-v2-21Oct2022-180247-6002039006637-Straight_on-66554-1502_140Wx140H"
   },
   {
     "Store": "PicknPay",
@@ -889,11 +961,19 @@
   },
   {
     "Store": "PicknPay",
-    "Name": "Rupert & Rothschild Classique 750ml",
-    "Price": "R225.00",
-    "Deal": "Smart Price: R195.00",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Red-Blends/Rupert-%26-Rothschild-Classique-750ml/p/000000000000257486_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/he8/h6a/10989587726366/silo-product-image-v2-21Oct2022-180250-6009802282168-Straight_on-66920-1556_140Wx140H"
+    "Name": "Robertson Winery Dry Red Wine 1L",
+    "Price": "R45.00",
+    "Deal": "Buy Any 2 For R75.00 (Smart Price)",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Boxed-%26-Canned-Wine/Robertson-Winery-Dry-Red-Wine-1L/p/000000000000103630_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/ha6/hc8/10989585956894/silo-product-image-v2-21Oct2022-180249-6002039003117-Straight_on-66906-1543_140Wx140H"
+  },
+  {
+    "Store": "PicknPay",
+    "Name": "Robertson Winery Natural Sweet Red Wine 1L",
+    "Price": "R45.00",
+    "Deal": "Buy Any 2 For R75.00 (Smart Price)",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Boxed-%26-Canned-Wine/Robertson-Winery-Natural-Sweet-Red-Wine-1L/p/000000000000108476_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hde/h74/10989582942238/silo-product-image-v2-21Oct2022-180249-6002039006644-Straight_on-66908-1544_140Wx140H"
   },
   {
     "Store": "PicknPay",
@@ -969,14 +1049,6 @@
   },
   {
     "Store": "PicknPay",
-    "Name": "The Beach House Sauvignon Blanc 750ml",
-    "Price": "R65.00",
-    "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
-    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/White-Wine/Sauvignon-Blanc/The-Beach-House-Sauvignon-Blanc-750ml/p/000000000000312204_EA",
-    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h2f/h5c/10989040664606/silo-product-image-v2-21Oct2022-180145-6001506900355-Straight_on-65682-391_140Wx140H"
-  },
-  {
-    "Store": "PicknPay",
     "Name": "The Wolftrap Red 1.5l",
     "Price": "R150.00",
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
@@ -994,7 +1066,7 @@
   {
     "Store": "PicknPay",
     "Name": "Two Oceans Cabernet Sauvignon Merlot 750ml",
-    "Price": "R65.00",
+    "Price": "R60.00",
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
     "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Red-Blends/Two-Oceans-Cabernet-Sauvignon-Merlot-750ml/p/000000000000243312_EA",
     "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/he3/he9/10989701627934/silo-product-image-v2-21Oct2022-180300-6001497600579-Straight_on-66867-1820_140Wx140H"
@@ -1030,6 +1102,14 @@
     "Deal": "Buy Any 6, Get Cheapest Free (Smart Price)",
     "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Red-Blends/Vergelegen-Cabernet-Sauvignon-Merlot-750ml/p/000000000000266529_EA",
     "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/hb8/h20/10989717094430/silo-product-image-v2-21Oct2022-180302-6003706000200-Straight_on-66891-1854_140Wx140H"
+  },
+  {
+    "Store": "PicknPay",
+    "Name": "Warwick First Lady Cabernet Sauvignon 750ml",
+    "Price": "R125.00",
+    "Deal": "Smart Price: R110.00",
+    "URL": "https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/Red-Wine/Cabernet-Sauvignon/Warwick-First-Lady-Cabernet-Sauvignon-750ml/p/000000000000418170_EA",
+    "Image": "https://cdn-prd-02.pnp.co.za/sys-master/images/h3b/h33/11198549721118/silo-product-image-v2-10Jun2023-180138-6009639890635-Straight_on-152231-1798_140Wx140H"
   },
   {
     "Store": "PicknPay",
