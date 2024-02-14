@@ -1,0 +1,48 @@
+  /* CSS Grid layout */
+  #productContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Set the grid to have columns with a minimum width of 300px and distribute the available space equally */
+    grid-auto-rows: minmax(200px, auto); /* Set the rows to have a minimum height of 200px and expand to fit content */
+    grid-gap: 20px;
+ }
+
+ /* Styling for product elements */
+ .product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    font-size: 20px;
+    background-color: grey;
+ }
+
+ .product img {
+    max-width: 100%;
+    height: auto;
+ }
+
+ /* App bar */
+ .appbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+ }
+
+ /* Add padding under appbar */
+ .appbar + div {
+    padding-top: 20px;
+ }
+
+ /* Color themes */
+ .theme1 {
+    background-color: #f44336;
+    color: #fff;
+ }
+
+ .theme2 {
+    background-color: #2196f3;
+    color: #fff;
+ }
+
+ .theme3 {
+    background-color: #4caf50;
+    color: #fff;
+ }

@@ -1,146 +1,75 @@
+import requests
 import json
 import time
-import os
-import datetime
-import requests
-from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from apscheduler.schedulers.blocking import BlockingScheduler
 
-# Store URL details
-URL_DETAILS = [
-    {
-        'store': 'WoolWorths',
-        'base_url': 'https://www.woolworths.co.za',
-        'scraper': 'woolworth_scraper',
-        'url': 'https://www.woolworths.co.za/cat/WCellar/Wine-Bubbles/_/N-xtznwkZ1yphczq?No=0&Nrpp=500'
-    },
-    {
-        'store': 'PicknPay',
-        'base_url': 'https://www.pnp.co.za',
-        'scraper': 'pnp_scraper',
-        'url': 'https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/c/wine-423144840?q=%3Arelevance%3AisOnPromotion%3AOn%2BPromotion&text=&pageSize=500'
-    },
-    # Other stores...
-]
+class PnPWebScraper:
+   def __init__(self):
+      self.base_url = "https://www.pnp.co.za/pnphybris/v2/pnp-spa/products/search"
+      self.params = {
+         "fields": "products(sponsoredProduct,code,name,averageWeight,summary,price(FULL),images(DEFAULT),stock(FULL),averageRating,numberOfReviews,variantOptions,maxOrderQuantity,productDisplayBadges(DEFAULT),allowedQuantities(DEFAULT),available,defaultQuantityOfUom,inStockIndicator,defaultUnitOfMeasure,potentialPromotions(FULL),categoryNames)",
+         "query": ":relevance:allCategories:wine800952112",
+         "pageSize": 100,
+         "storeCode": "WC44",
+         "lang": "en",
+         "curr": "ZAR"
+      }
+      self.pnpProducts = []
 
+   def scrape(self):
+      page = 0
+      while True:
+         self.params["currentPage"] = page
+         try:
+            response = requests.get(self.base_url, params=self.params)
+            response.raise_for_status()
+            data = response.json()
+            products = data.get("products", [])
 
-def get_last_scrape_time():
-    if not os.path.exists('last_scrape_time.json'):
-        return None
-    with open('last_scrape_time.json', 'r') as f:
-        timestamp = json.load(f)
-    return datetime.datetime.fromisoformat(timestamp)
+            if not products:
+               break
 
+            for product in products:
+               name = product.get("name")
+               formatted_value = product.get("price", {}).get("formattedValue")
+               primary_image = next((image.get("url") for image in product.get("images", []) if image.get("format") == "product"), None)
+               potential_promotions = product.get("potentialPromotions", [])
+               instock = product.get("stock", {}).get("stockLevelStatus")
+               promotion_message = next((promotion.get("promotionTextMessage") for promotion in potential_promotions), None)
+               promotion_end_date = next((promotion.get("endDate") for promotion in potential_promotions), None)
 
-def set_last_scrape_time(time):
-    with open('last_scrape_time.json', 'w') as f:
-        json.dump(time.isoformat(), f)
+               pnpItems = {
+                  'StoreName': 'PicknPay',
+                  'ItemName': name,
+                  'Price': formatted_value,
+                  'Image': primary_image,
+                  'PromotionMessage': promotion_message,
+                  'OnPromotion': bool(promotion_message),
+                  'PromotionEndDate': promotion_end_date,
+                  "Stock": instock
+               }
+               self.pnpProducts.append(pnpItems)
 
+            page += 1
+            time.sleep(3)
+         except requests.exceptions.RequestException as e:
+            print(f"An error occurred: {e}")
+            break
 
-def pnp_scraper(base_url):
-    pnpProducts = []
-    r = requests.get(
-        'https://www.pnp.co.za/pnpstorefront/pnp/en/All-Products/Wine/c/wine-423144840?q=%3Arelevance%3AisOnPromotion%3AOn%2BPromotion&text=&pageSize=500')
-    soup = BeautifulSoup(r.content, 'lxml')
+      self.pnpProducts.sort(key=lambda K: K['ItemName'])
 
-    pnpproductlist = soup.find_all(
-        'div', class_='productCarouselItemContainer')
+   def save_to_json(self, filename):
+      try:
+         with open(filename, 'w') as f:
+            json.dump(self.pnpProducts, f, indent=2)
+      except IOError as e:
+         print(f"An error occurred while saving to JSON: {e}")
 
-    for item in pnpproductlist:
-        title = item.find('div', {'class': 'item-name'}).text
-        currentprice = item.find('div', {'class': 'currentPrice'}).text.strip()
-        promotion = item.find(
-            'div', {'class': 'promotionContainer'}).text.strip()
-        link = item.find('a', {'class': 'js-potential-impression-click'})
-        img = item.find('img')
-
-        pnpItems = {
-            'Store': 'PicknPay',
-            'Name': title,
-            'Price': currentprice,
-            'Deal': promotion,
-            'URL': base_url + link['href'],
-            'Image': img['src']
-        }
-
-        pnpProducts.append(pnpItems)
-
-    return pnpProducts
+   def get_product_count(self):
+      return len(self.pnpProducts)
 
 
-def init_webdriver():
-    # Set up webdriver options
-    webdriver_service = Service('C:\Program Files (x86)\chromedriver')
-    options = webdriver.ChromeOptions()
-    options.add_argument("--headless")  # Run in headless mode
-    driver = webdriver.Chrome(service=webdriver_service, options=options)
-    return driver
-
-
-def woolworth_scraper(driver, base_url):
-    products = []
-
-    driver.get(
-        'https://www.woolworths.co.za/cat/WCellar/Wine-Bubbles/_/N-xtznwkZ1yphczq?No=0&Nrpp=500')
-
-    # Scroll the page
-    total_height = int(driver.execute_script(
-        "return document.body.scrollHeight"))
-    for i in range(1, total_height, 500):
-        driver.execute_script("window.scrollTo(0, {});".format(i))
-        time.sleep(1)
-
-    soup = BeautifulSoup(driver.page_source, 'lxml')
-    product_list = soup.find_all('div', class_='product-list__item')
-    for item in product_list:
-        # Extract details and append to list
-        # Similar error handling can be added here
-        title = item.find('a', {'class': 'range--title'}).text
-        price = item.find('strong', {'class': 'price'}).text
-        deal = item.find('div', {'class': 'product__special'}).text
-        link = item.find('a', {'class': 'product--view'})
-        img = item.find('img', {'class': 'product-card__img lazyloaded'})
-
-        item_details = {
-            'Store': 'WoolWorths',
-            'Name': title,
-            'Price': price,
-            'Deal': deal,
-            'URL': base_url + link['href'],
-            'Image': img['src']
-        }
-        products.append(item_details)
-
-    return products
-
-def main():
-    driver = init_webdriver()
-
-    all_products = []
-    for url_detail in URL_DETAILS:
-        if url_detail['scraper'] == 'woolworth_scraper':
-            all_products += woolworth_scraper(driver, url_detail['base_url'])
-        elif url_detail['scraper'] == 'pnp_scraper':
-            all_products += pnp_scraper(url_detail['base_url'])
-
-    driver.quit()
-
-    # Sort and write to file
-    all_products.sort(key=lambda K: K['Name'])
-    with open('./Data/WineData.json', 'w') as f:
-        json.dump(all_products, f, indent=2)
-
-    print('Complete!')
-
-#scheduler = BlockingScheduler()
-
-# Schedule the function to run every 12 hours
-#scheduler.add_job(main, 'interval', hours=6)
-
-# Start the scheduler
-#scheduler.start()
-
-if __name__ == "__main__":
-    main()
+scraper = PnPWebScraper()
+scraper.scrape()
+scraper.save_to_json('WineData.json')
+product_count = scraper.get_product_count()
+print(f"Number of products found: {product_count}")

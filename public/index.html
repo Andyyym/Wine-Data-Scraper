@@ -1,104 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
    <meta charset="UTF-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Wine Deals</title>
-   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+   <title>Document</title>
+   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+   <link href="./Styles/style.css" rel="stylesheet">
 </head>
+
 <body>
-   <header class="bg-dark py-3">
-      <div class="container text-center text-white">
-         <h1>Wine Specials</h1>
-         <div class="input-group my-3">
-            <input class="form-control" id="searchBar" type="text" placeholder="Search for wine..."
-               aria-label="Search for wine...">
-            <div class="input-group-append">
-               <button class="btn btn-light" type="button" id="searchButton"><i class="fas fa-search"></i></button>
-            </div>
-         </div>
-      </div>
-   </header>
-   <div class="container my-5">
-      <div class="row mb-3">
-         <div class="col">
-            <label for="storeFilter">Filter by store:</label>
-            <select class="form-control" id="storeFilter">
-               <option value="">All Stores</option>
-               <option value="WoolWorths">WoolWorths</option>
-               <option value="PicknPay">PicknPay</option>
-               <!-- Add option for each store -->
-            </select>
-         </div>
-      </div>
-      <div class="row" id="output">
-      </div>
+   <div class="appbar">
+      <h1>My Web Scraper</h1>
+      <input type="text" id="searchInput" placeholder="Search by wine name">
+      <button id="searchButton">Find</button>
+      <button id="promotionButton">Filter Promotions</button>
    </div>
-   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-   <script>
- $(document).ready(function () {
-   var resultArea = $("#output");
-   var searchBar = $("#searchBar");
-   var searchButton = $("#searchButton");
-   var storeFilter = $("#storeFilter");
 
-   var displayResults = function (data) {
-      var searchField = searchBar.val();
-      var expression = new RegExp(searchField, "i");
-
-      var store = storeFilter.val();
-
-      var filtered = data.filter(function (value) {
-         return value.Name.search(expression) != -1 && 
-            (store === "" || value.Store === store);
-      });
-
-      render(filtered);
-   }
-
-   var render = function (items) {
-      resultArea.empty();
-      items.forEach(function (value) {
-         resultArea.append(`
-            <div class="col-md-4">
-               <div class="card mb-4 shadow-sm">
-                  <img src=${value.Image} class="bd-placeholder-img card-img-top" width="100%" height="225">
-                  <div class="card-body">
-                     <h5 class="card-title">${value.Name}</h5>
-                     <h6 class="card-subtitle mb-2 text-muted">${value.Price} - ${value.Store}</h6>
-                     <p class="card-text">${value.Deal}</p>
-                     <div class="d-flex justify-content-between align-items-center">
-                        <div class="btn-group">
-                           <a href=${value.URL} class="btn btn-sm btn-outline-secondary">View</a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>`);
-      });
-   };
-
-   storeFilter.change(function () {
-      $.getJSON('http://localhost:3000/api/wines', displayResults);
-   });
-
-   searchButton.click(function () {
-      $.getJSON('http://localhost:3000/api/wines', displayResults);
-   });
-
-   searchBar.keypress(function (e) {
-      if (e.keyCode === 13) {
-         searchButton.click();
-      }
-   });
-
-   // Load results on page load
-   $.getJSON('http://localhost:3000/api/wines', displayResults);
-});
-
-   </script>
+   <div id="productContainer"></div>
+   <script src="./JS/script.js"></script>
 </body>
+
 </html>

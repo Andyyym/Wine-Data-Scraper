@@ -26,7 +26,6 @@ app.get('/api/wines/:store', (req, res) => {
    res.json(filteredWines);
 });
 
-
 app.listen(port, () => {
     console.log(`Wine API listening at http://localhost:${port}`);
 });
